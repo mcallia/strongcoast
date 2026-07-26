@@ -59,9 +59,20 @@
       });
     });
   }
-  fetch("data/library.json")
-    .then(function (r) { if (!r.ok) throw 0; return r.json(); })
-    .then(function (j) { data = j; buildPills(); render(); })
+  Promise.all([
+    fetch("data/library.json").then(function (r) { if (!r.ok) throw 0; return r.json(); }),
+    // curated cross-site stories (West Coast NOW / The Skeena etc.) preserved across library re-pulls
+    fetch("data/humans-extra.json").then(function (r) { return r.ok ? r.json() : []; }).catch(function () { return []; })
+  ])
+    .then(function (res) {
+      var seen = {};
+      data = res[1].concat(res[0]).filter(function (it) {
+        if (!it || !it.url || seen[it.url]) return false;
+        seen[it.url] = 1; return true;
+      });
+      data.sort(function (a, b) { return (b.date || "").localeCompare(a.date || ""); });
+      buildPills(); render();
+    })
     .catch(function () { grid.innerHTML = '<p class="feed-note">Library unavailable right now — see <a href="https://strongcoast.org/explainers/" rel="noopener">strongcoast.org</a>.</p>'; });
   if (input) input.addEventListener("input", function () { q = input.value.trim().toLowerCase(); render(); });
 })();
