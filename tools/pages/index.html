@@ -1,0 +1,75 @@
+<!--META {"gate":"skip"} -->
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Strong Coast — Review Preview</title>
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+<link rel="stylesheet" href="css/fonts.css">
+<style>
+  :root{--deep:#0c2733;--abyss:#071b24;--cyan:#56c1e8;--salmon:#ec684f;--foam:#e9f3f6;--mist:#9db8c2;--line:#1d3d4e}
+  *{box-sizing:border-box}
+  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:
+    radial-gradient(ellipse 90% 70% at 50% -20%,rgba(23,112,151,.35),transparent 60%),var(--abyss);
+    font-family:"Barlow",sans-serif;color:var(--foam);padding:1.2rem}
+  .gate{width:min(430px,94vw);text-align:center}
+  .gate img{height:72px;margin:0 auto 1.6rem;display:block}
+  h1{font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:1.7rem;letter-spacing:.06em;text-transform:uppercase;margin:0 0 .4rem}
+  p{color:var(--mist);font-size:.98rem;line-height:1.55;margin:0 0 1.6rem}
+  form{display:flex;gap:.6rem}
+  input{flex:1;background:var(--deep);border:1px solid var(--line);border-radius:8px;color:var(--foam);
+    font-family:"IBM Plex Mono",monospace;font-size:1rem;padding:.75rem 1rem;min-width:0}
+  input:focus{outline:2px solid var(--cyan);outline-offset:1px;border-color:transparent}
+  button{background:var(--salmon);border:0;border-radius:8px;color:#fff;cursor:pointer;
+    font-family:"Barlow Condensed",sans-serif;font-weight:700;font-size:1.1rem;letter-spacing:.07em;
+    text-transform:uppercase;padding:.75rem 1.3rem}
+  button:hover{background:#c94e33}
+  .err{color:var(--salmon);font-size:.9rem;min-height:1.4em;margin-top:.8rem;font-family:"IBM Plex Mono",monospace}
+  .foot{margin-top:2.4rem;font-size:.78rem;color:var(--mist);font-family:"IBM Plex Mono",monospace;letter-spacing:.04em}
+  .pulse{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--cyan);margin-right:.45rem;
+    animation:pulse 1.8s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(86,193,232,.5)}70%{box-shadow:0 0 0 10px rgba(86,193,232,0)}100%{box-shadow:0 0 0 0 rgba(86,193,232,0)}}
+  @media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+</style>
+</head>
+<body>
+<main class="gate">
+  <img src="img/logo-light.png" alt="Strong Coast">
+  <h1><span class="pulse" aria-hidden="true"></span>Site redesign preview</h1>
+  <p>This is a private prototype of the new strongcoast.org, prepared for team review. Enter the review password to continue.</p>
+  <form id="f" autocomplete="off">
+    <label for="pw" style="position:absolute;left:-9999px">Review password</label>
+    <input id="pw" type="password" placeholder="password" autofocus>
+    <button type="submit">Enter</button>
+  </form>
+  <div class="err" id="err" role="alert" aria-live="polite"></div>
+  <p class="foot">STRONG COAST · REVIEW BUILD · <a href="https://strongcoast.org" style="color:var(--mist)">current live site ↗</a></p>
+</main>
+<script>
+(function () {
+  var HASH = "b3f12ec0c135cbdbe777c196daf3beae9c2e3719552aed1331e5f98bcb6f3f87";
+  try { if (sessionStorage.getItem("sc_gate") === "ok") location.replace("home.html"); } catch (e) {}
+  async function sha256(s) {
+    var buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
+    return Array.from(new Uint8Array(buf)).map(function (b) { return b.toString(16).padStart(2, "0"); }).join("");
+  }
+  document.getElementById("f").addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    var v = document.getElementById("pw").value.trim().toLowerCase();
+    sha256(v).then(function (h) {
+      if (h === HASH) {
+        try { sessionStorage.setItem("sc_gate", "ok"); } catch (e) {}
+        location.replace("home.html");
+      } else {
+        document.getElementById("err").textContent = "That's not it — check the password and try again.";
+      }
+    }).catch(function () {
+      document.getElementById("err").textContent = "This preview needs a modern browser (secure context).";
+    });
+  });
+})();
+</script>
+</body>
+</html>

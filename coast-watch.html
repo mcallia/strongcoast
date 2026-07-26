@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="js/gate.js"></script>
+<title>Coast Watch — live | Strong Coast</title>
+<meta name="description" content="The BC coast right now: sea state in Hecate Strait, the Fraser's flow, the MPA Network map, ship traffic, and live wildlife cams.">
+<meta name="robots" content="noindex,nofollow">
+<meta property="og:site_name" content="Strong Coast">
+<meta property="og:title" content="Coast Watch — live | Strong Coast">
+<meta property="og:description" content="The BC coast right now: sea state in Hecate Strait, the Fraser's flow, the MPA Network map, ship traffic, and live wildlife cams.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mcallia.github.io/strongcoast/coast-watch.html">
+<meta property="og:image" content="https://mcallia.github.io/strongcoast/img/og-share.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://mcallia.github.io/strongcoast/coast-watch.html">
+<meta name="theme-color" content="#0c2733">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+<link rel="apple-touch-icon" href="img/favicon-180.png">
+<link rel="preload" href="fonts/BarlowCondensed-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/site.css">
+<link rel="stylesheet" href="css/vendor/leaflet.css">
+</head>
+<body class="">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><div class="header-bar">
+  <a class="brand" href="home.html"><img src="img/logo-light.png" alt="Strong Coast" height="40"></a>
+  <nav class="nav-desktop" aria-label="Primary">
+      <a href="home.html">Home</a>
+      <a href="the-case.html">The Case</a>
+      <a href="why-mpas.html">The Plan</a>
+      <a href="no-tankers.html">No Tankers</a>
+      <a href="coast-watch.html" aria-current="page">Coast Watch</a>
+      <a href="newsroom.html">Newsroom</a>
+      <a href="voices.html">Voices</a>
+      <a href="about.html">About</a>
+      <a class="nav-cta" href="take-action.html">Take Action</a>
+  </nav>
+  <button class="nav-toggle" aria-expanded="false" aria-controls="mnav" aria-label="Open menu"><span></span><span></span><span></span></button>
+</div></header>
+<nav class="nav-mobile" id="mnav" aria-label="Mobile">
+      <a href="home.html">Home</a>
+      <a href="the-case.html">The Case</a>
+      <a href="why-mpas.html">The Plan</a>
+      <a href="no-tankers.html">No Tankers</a>
+      <a href="coast-watch.html" aria-current="page">Coast Watch</a>
+      <a href="newsroom.html">Newsroom</a>
+      <a href="voices.html">Voices</a>
+      <a href="about.html">About</a>
+      <a class="nav-cta" href="take-action.html">Take Action</a>
+</nav>
+<main id="main">
+<section class="band band-abyss band-tight">
+  <div class="container">
+    <p class="kicker">Coast Watch</p>
+    <h1 style="font-size:var(--fs-1)">The coast, right now</h1>
+    <p class="lede" style="max-width:680px">Instruments, not adjectives. Live public feeds from the waters this campaign is about — and the map of what the MPA Network protects. Every panel names its source; if a feed drops, we say so.</p>
+    <div class="grid-4 mt-2">
+      <div class="live-tile loading" data-live="hecate">
+        <span class="live-flag">LIVE</span>
+        <div class="live-num">–</div>
+        <div class="live-label">Seas in Hecate Strait</div>
+        <div class="live-ts">connecting…</div>
+      </div>
+      <div class="live-tile loading" data-live="dixon">
+        <span class="live-flag">LIVE</span>
+        <div class="live-num">–</div>
+        <div class="live-label">Dixon Entrance sea surface</div>
+        <div class="live-ts">connecting…</div>
+      </div>
+      <div class="live-tile loading" data-live="fraser">
+        <span class="live-flag">LIVE</span>
+        <div class="live-num">–</div>
+        <div class="live-label">Fraser River at Hope — the salmon artery</div>
+        <div class="live-ts">connecting…</div>
+      </div>
+      <div class="live-tile">
+        <span class="live-flag" style="color:var(--salmon)">WHY IT MATTERS</span>
+        <div class="live-num" style="font-size:1.05rem;line-height:1.35;font-family:var(--f-body);font-weight:600;color:var(--foam-text)">Hecate Strait's shallow seabed and tides build steep, dangerous seas — the waters the tanker ban keeps crude out of.</div>
+        <div class="live-ts"><a href="no-tankers.html">The tanker ban →</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">The Network</p>
+      <h2>The MPA Network map</h2>
+      <p class="lede">Roughly 30% of the Great Bear Sea: existing protections stitched together with new sites across the nurseries, spawning grounds and feeding grounds. Click any site for its name and size.</p>
+    </div>
+    <div id="mpa-map" style="height:540px;border-radius:var(--r-lg);box-shadow:var(--shadow-1);border:1px solid var(--line)" aria-label="Interactive map of the Great Bear Sea MPA Network sites"></div>
+    <div class="chip-row" id="mpa-chips"></div>
+    <p class="chart-note">Reference map, not a legal document. Site boundaries from the Northern Shelf Bioregion MPA Network planning dataset (SeaSketch), retrieved July 2026; final boundaries are set through the designation process. Authoritative detail: <a href="https://mpanetwork.ca/" rel="noopener">mpanetwork.ca</a>.</p>
+  </div>
+</section>
+
+<section class="band band-foam">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">Ship traffic</p>
+      <h2>Who's on the water</h2>
+      <p class="lede">More than 50,000 commercial vessel movements a year share this coast — ferries, fish boats, freighters. Watch it live.</p>
+    </div>
+    <div class="reveal" style="border-radius:var(--r-lg);overflow:hidden;box-shadow:var(--shadow-1);border:1px solid var(--line)">
+      <iframe src="https://www.marinetraffic.com/en/ais/embed/zoom:6/centery:53.2/centerx:-130.8/maptype:4/shownames:false/mmsi:0/shipid:0/fleet:/fleet_id:/vtypes:/showmenu:false/remember:false" width="100%" height="480" style="border:0;display:block" title="Live ship traffic on the BC coast (MarineTraffic)" loading="lazy"></iframe>
+    </div>
+    <p class="chart-note">Live AIS positions via <a href="https://www.marinetraffic.com/" rel="noopener">MarineTraffic</a>. If the panel doesn't load, view it there directly.</p>
+  </div>
+</section>
+
+<section class="band band-deep">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">The fish ledger</p>
+      <h2>Salmon &amp; farms: the numbers that move</h2>
+    </div>
+    <div class="stat-strip">
+      <div class="stat-tile reveal">
+        <div class="stat-num">9.6<span class="unit">M</span></div>
+        <div class="stat-label">2025 Fraser sockeye return — far above forecast, with caveats worth reading</div>
+        <div class="stat-src"><a href="https://strongcoast.org/why-bc-sockeyes-2025-numbers-dont-tell-the-whole-story/" rel="noopener">Strong Coast, Sep 2025</a></div>
+      </div>
+      <div class="stat-tile reveal">
+        <div class="stat-num">↑<span class="unit"> returns</span></div>
+        <div class="stat-label">stronger wild salmon returns reported where open-net farms came out of migration routes</div>
+        <div class="stat-src"><a href="https://strongcoast.org/researchers-and-coastal-nations-report-improved-salmon-returns-after-farm-closures/" rel="noopener">Strong Coast, Jun 2026</a></div>
+      </div>
+      <div class="stat-tile reveal">
+        <div class="stat-num">~30,000</div>
+        <div class="stat-label">salmon caught as trawl bycatch in months under enhanced monitoring — 93% Chinook</div>
+        <div class="stat-src"><a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41221618.pdf" rel="noopener">DFO enhanced monitoring</a></div>
+      </div>
+      <div class="stat-tile reveal">
+        <div class="stat-num">2029</div>
+        <div class="stat-label">federal licence extensions pushed the open-net transition past the 2025 promise — the deadline to hold</div>
+        <div class="stat-src"><a href="https://strongcoast.org/bc-salmon-farms-transition-plan-move-to-land-based-operations-after-five-years/" rel="noopener">Strong Coast, Jun 2024</a></div>
+      </div>
+    </div>
+    <p class="chart-note mt-1">Reference figures with dates — not live counters. Each links to its source.</p>
+  </div>
+</section>
+
+<section class="band">
+  <div class="container">
+    <div class="sec-head reveal">
+      <p class="kicker">Live cams</p>
+      <h2>Neighbours, live</h2>
+      <p class="lede">Smart, social, and better at fishing than any of us. The coast's other residents, on camera.</p>
+    </div>
+    <div class="grid-2">
+      <figure class="reveal tight">
+        <div style="aspect-ratio:16/9;border-radius:var(--r-lg);overflow:hidden;box-shadow:var(--shadow-1)">
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/dTPzdUwRGeE" title="Live cam: Rhinoceros Auklets at Seabird Rocks" frameborder="0" allowfullscreen loading="lazy"></iframe>
+        </div>
+        <figcaption>Rhinoceros auklets at Seabird Rocks.</figcaption>
+      </figure>
+      <figure class="reveal tight">
+        <div style="aspect-ratio:16/9;border-radius:var(--r-lg);overflow:hidden;box-shadow:var(--shadow-1)">
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/pI8Ukf_fEkY" title="Live cam: grizzly bear with three cubs" frameborder="0" allowfullscreen loading="lazy"></iframe>
+        </div>
+        <figcaption>Grizzly with three cubs, Great Bear coast.</figcaption>
+      </figure>
+    </div>
+    <p class="mt-2 reveal txt-slate">Want wildfire, air quality and weather layers too? The classics live on: <a href="https://strongcoast.org/info-alerts/" rel="noopener">Info Alerts on strongcoast.org</a>.</p>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container foot-grid">
+    <div class="foot-brand">
+      <img src="img/logo-light.png" alt="Strong Coast" height="44">
+      <p class="foot-tag">DEFEND OUR COAST.</p>
+      <p>Strong Coast supports the Great Bear Sea Marine Protected Area (MPA) Network through communication and education. Strong Coast is not affiliated with any political party, government, or industry group and is not part of the Great Bear Sea MPA Network governing structure.</p>
+      <p class="foot-proto">Review prototype &mdash; not the live strongcoast.org</p>
+    </div>
+    <nav class="foot-col" aria-label="Explore">
+      <h3>Explore</h3>
+      <a href="the-case.html">The Case</a>
+      <a href="why-mpas.html">The MPA Network Plan</a>
+      <a href="no-tankers.html">The Tanker Ban</a>
+      <a href="coast-watch.html">Coast Watch</a>
+      <a href="newsroom.html">Newsroom</a>
+      <a href="explainers.html">Explainers</a>
+      <a href="voices.html">Voices of the Coast</a>
+    </nav>
+    <nav class="foot-col" aria-label="Act">
+      <h3>Act</h3>
+      <a href="take-action.html">Take Action</a>
+      <a href="https://strongcoast.org/messagewriter" rel="noopener">Message Ottawa: MPA Network</a>
+      <a href="https://strongcoast.org/nmcar-message-writer/" rel="noopener">Back the Central Coast MCA</a>
+      <a href="https://strongcoast.org/new-call-your-mp-no-tankers/" rel="noopener">Call your MP: No Tankers</a>
+      <a href="https://strongcoast.org/donations/coast-plan/" rel="noopener">Donate</a>
+      <a href="https://strongcoast.org/shop/" rel="noopener">Shop</a>
+    </nav>
+    <div class="foot-col">
+      <h3>Contact</h3>
+      <a href="mailto:hello@strongcoast.org">hello@strongcoast.org</a>
+      <p>Victoria, BC<br>+1 (250) 900-0773</p>
+      <div class="foot-social">
+        <a href="https://www.facebook.com/StrongCoastCA" rel="noopener">Facebook</a>
+        <a href="https://instagram.com/StrongCoastCA" rel="noopener">Instagram</a>
+        <a href="https://twitter.com/StrongCoastCA" rel="noopener">X</a>
+        <a href="https://www.youtube.com/channel/UCAyo2pahS176Vm19IBLAbcA" rel="noopener">YouTube</a>
+      </div>
+    </div>
+  </div>
+  <div class="container foot-base">
+    <span>&copy; <span data-year>2026</span> Strong Coast</span>
+    <span><a href="about.html#credits">Photo &amp; data credits</a> &middot; <a href="https://strongcoast.org/privacy/" rel="noopener">Privacy</a> &middot; <a href="https://strongcoast.org/terms-of-service/" rel="noopener">Terms</a></span>
+  </div>
+</footer>
+<script src="js/site.js"></script>
+<script src="js/vendor/leaflet.js"></script>
+<script src="js/live-tiles.js"></script>
+<script src="js/watch.js"></script>
+</body>
+</html>

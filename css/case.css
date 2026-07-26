@@ -1,0 +1,45 @@
+/* The Case — scrolly layout + sounder styling */
+.scrolly{display:grid;grid-template-columns:minmax(320px,460px) 1fr;gap:clamp(1.5rem,4vw,4rem);max-width:var(--wide);margin:0 auto;padding:0 clamp(1rem,4vw,2rem)}
+.scrolly-fig{position:sticky;top:84px;align-self:start;height:calc(100vh - 108px);display:flex;align-items:center}
+.sounder-wrap{width:100%}
+.scrolly-steps{max-width:640px}
+.step{min-height:82vh;display:flex;flex-direction:column;justify-content:center;padding:3.5rem 0}
+.step h2{font-size:clamp(1.9rem,3.6vw,2.8rem)}
+.step .chnum{font-family:var(--f-mono);font-size:.8rem;letter-spacing:.18em;color:var(--cyan);text-transform:uppercase;margin-bottom:.7rem}
+.step p{color:var(--mist-dark)}
+.step .statline{display:flex;gap:1.6rem;flex-wrap:wrap;margin:1.2rem 0}
+.step .statline div strong{display:block;font-family:var(--f-mono);font-size:1.7rem;color:#fff;font-weight:600}
+.step .statline div span{font-size:.85rem;color:var(--mist-dark)}
+@media (max-width:880px){
+  .scrolly{display:block}
+  .scrolly-fig{position:sticky;top:57px;height:auto;background:var(--abyss);z-index:5;padding:.6rem 0;border-bottom:1px solid var(--line-dark)}
+  .sounder-wrap{max-width:340px;margin:0 auto}
+  .step{min-height:auto;padding:2.6rem 0}
+}
+
+/* sounder screen */
+.sounder{background:#04141c;border:1px solid var(--line-dark);border-radius:var(--r-lg);box-shadow:var(--shadow-2);overflow:hidden}
+.sounder-head{display:flex;justify-content:space-between;align-items:center;padding:.55rem .9rem;border-bottom:1px solid var(--line-dark);font-family:var(--f-mono);font-size:.72rem;letter-spacing:.1em;color:var(--mist-dark)}
+.sounder-head .sh-status{color:var(--cyan)}
+.sounder svg{display:block;width:100%;height:auto}
+
+.fish{stroke:var(--cyan);stroke-width:2.6;fill:none;stroke-linecap:round;transition:opacity 1.1s var(--ease)}
+.fish.big{stroke-width:3.6}
+.fgroup{transition:opacity 1.1s var(--ease)}
+.fgroup.off{opacity:0}
+.fgroup.thin{opacity:.28}
+#trawl{transition:opacity .9s var(--ease),transform 1.6s var(--ease);opacity:0;transform:translateX(-40px)}
+#trawl.on{opacity:1;transform:translateX(0)}
+#boundary{transition:opacity .9s var(--ease);opacity:0}
+#boundary.on{opacity:1}
+#spill{transition:opacity 1s var(--ease);opacity:0}
+#spill.on{opacity:1}
+.scanline{animation:scan 5.5s linear infinite;opacity:.5}
+@keyframes scan{from{transform:translateX(0)}to{transform:translateX(396px)}}
+@media (prefers-reduced-motion:reduce){.scanline{display:none}}
+
+/* case page general */
+.case-hero{min-height:min(92vh,820px)}
+.case-hero .hero-img{opacity:.55}
+.sources-band ol{padding-left:1.2rem;color:var(--slate)}
+.sources-band li{margin:.45rem 0;font-size:.92rem}

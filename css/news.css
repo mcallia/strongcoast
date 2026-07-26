@@ -1,0 +1,17 @@
+/* Newsroom */
+.news-pills{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.2rem 0 1.6rem}
+.news-pills button{font-family:var(--f-display);font-weight:600;font-size:.98rem;letter-spacing:.05em;text-transform:uppercase;background:#fff;border:1.5px solid var(--line);border-radius:99px;padding:.4rem 1.05rem;cursor:pointer;color:var(--slate)}
+.news-pills button[aria-pressed="true"]{background:var(--petrol);border-color:var(--petrol);color:#fff}
+ul.news-list{list-style:none;margin:0;padding:0}
+.news-row{display:grid;grid-template-columns:7.2rem 9.5rem 1fr;gap:1rem;align-items:baseline;padding:.8rem .2rem;border-bottom:1px solid var(--line)}
+.news-row a{color:var(--ink);text-decoration:none;font-weight:600;font-size:1.04rem}
+.news-row a:hover{color:var(--petrol-bright);text-decoration:underline}
+.news-date{font-size:.78rem;color:var(--mist)}
+.news-src{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.05em;text-transform:uppercase;border-radius:99px;padding:.14rem .6rem;justify-self:start;white-space:nowrap}
+.tag-campaign{background:rgba(20,93,118,.12);color:var(--petrol-ink)}
+.tag-coalition{background:rgba(46,143,87,.14);color:#1d5c38}
+.tag-media{background:rgba(76,92,100,.12);color:var(--slate)}
+@media (max-width:640px){.news-row{grid-template-columns:1fr;gap:.15rem}.news-date{order:3}}
+.card-tag.tag-campaign{background:rgba(20,93,118,.12);color:var(--petrol-ink)}
+.card-tag.tag-coalition{background:rgba(46,143,87,.14);color:#1d5c38}
+.card-tag.tag-media{background:rgba(76,92,100,.12);color:var(--slate)}
