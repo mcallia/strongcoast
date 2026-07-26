@@ -14,8 +14,15 @@
  *    organization per refresh (COALITION_CAP) — never a wall of one org's releases.
  * 3. Coalition items must be recognizably coastal/marine (COASTAL_TERMS check
  *    on the title) — general-wildlife or inland releases are skipped.
- * Rules 1–3 do not apply to Strong Coast's own posts (cat "campaign") or to
- * news-media results (cat "media", already scoped by the marine search query).
+ * 4. Opponent opinion is never surfaced (OPINION_GENRE + ADVERSARIAL). We report
+ *    news; we don't hand the other side's op-eds a platform. This drops opinion/
+ *    op-ed/editorial/commentary pieces from the news search AND anything whose
+ *    headline argues against the campaign's positions (e.g. "scrap the tanker
+ *    ban", "…defies logic"). Applies to media results only. If the team ever
+ *    wants to feature a FAVOURABLE column, hand-add it to data/news.json as a
+ *    {"cat":"campaign", ...} entry — the refresher preserves campaign entries.
+ * Rules 1–3 do not apply to Strong Coast's own posts (cat "campaign"); rule 4
+ * applies to media results only (campaign/coalition are trusted voices).
  */
 import { readFileSync, writeFileSync } from "node:fs";
 
@@ -36,6 +43,18 @@ const COASTAL_TERMS = /coast|marine|ocean|sea\b|salmon|herring|fish|tanker|mpa|g
 const blocked = (it) =>
   BLOCKED_SOURCES.some((r) => r.test(it.source || "")) ||
   BLOCKED_URLS.some((r) => r.test(it.url || ""));
+
+// Rule 4 — opponent opinion. Genre tells (title starts with / is tagged Opinion,
+// Op-Ed, Editorial, Commentary) plus explicit anti-campaign framings.
+const OPINION_GENRE = /(^|[|:–-]\s*)(opinion|op[-\s]?ed|editorial|commentary)\b|\b(opinion|op[-\s]?ed)\s*:/i;
+const ADVERSARIAL = [
+  /defies?\s+logic/i,
+  /\b(scrap|kill|lift|repeal|end|axe|ditch|overturn|drop|nix)\b[^.]{0,40}\btanker ban\b/i,
+  /\btanker ban\b[^.]{0,40}\b(makes no sense|must go|has to go|is a mistake|overreach|unnecessary|pointless|should end|nonsense)\b/i,
+  /\b(scrap|lift|repeal|kill)\b[^.]{0,30}\b(moratorium|bill c-?48)\b/i,
+];
+const opponentOpinion = (it) =>
+  OPINION_GENRE.test(it.title || "") || ADVERSARIAL.some((r) => r.test(it.title || ""));
 
 const decode = (s = "") => s
   .replace(/<!\[CDATA\[(.*?)\]\]>/gs, "$1")
@@ -85,14 +104,16 @@ async function main() {
       const cut = it.title.lastIndexOf(" - ");
       const item = { cat: "media", source: cut > 0 ? it.title.slice(cut + 3).trim() : "News",
                      ...it, title: cut > 0 ? it.title.slice(0, cut) : it.title };
-      if (blocked(item)) continue;
+      if (blocked(item) || opponentOpinion(item)) continue;
       seen.add(it.url); merged.push(item);
     }
     console.log("ok: google news");
   } catch (e) { console.warn("google news failed:", e.message); keepOld("media"); }
 
-  merged.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
-  writeFileSync(NEWS_PATH, JSON.stringify({ updated: new Date().toISOString(), items: merged.slice(0, 44) }, null, 1) + "\n");
-  console.log("wrote", Math.min(merged.length, 44), "items");
+  // Final scrub — drops any stale cached opponent op-ed re-added via keepOld.
+  const cleaned = merged.filter((i) => !blocked(i) && !(i.cat === "media" && opponentOpinion(i)));
+  cleaned.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+  writeFileSync(NEWS_PATH, JSON.stringify({ updated: new Date().toISOString(), items: cleaned.slice(0, 44) }, null, 1) + "\n");
+  console.log("wrote", Math.min(cleaned.length, 44), "items");
 }
 main().catch((e) => { console.error(e); process.exit(1); });
