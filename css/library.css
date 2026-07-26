@@ -1,0 +1,23 @@
+/* Searchable archive (Explainers, Humans) + news cards with thumbnails */
+.archive-controls{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:space-between;margin:0 0 1.3rem}
+.archive-search{flex:1;min-width:240px;position:relative}
+.archive-search input{width:100%;font-family:var(--f-body);font-size:1rem;padding:.72rem 1rem .72rem 2.7rem;border:1.5px solid var(--line);border-radius:99px;background:#fff;color:var(--ink)}
+.archive-search input:focus{outline:2px solid var(--petrol);outline-offset:1px;border-color:transparent}
+.archive-search svg{position:absolute;left:.95rem;top:50%;transform:translateY(-50%);color:var(--mist);pointer-events:none}
+.archive-count{font-family:var(--f-mono);font-size:.85rem;color:var(--mist);white-space:nowrap}
+.archive-pills{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.7rem}
+.archive-pills button{font-family:var(--f-display);font-weight:600;font-size:.95rem;letter-spacing:.04em;text-transform:uppercase;background:#fff;border:1.5px solid var(--line);border-radius:99px;padding:.35rem .95rem;cursor:pointer;color:var(--slate)}
+.archive-pills button:hover{border-color:var(--petrol)}
+.archive-pills button[aria-pressed="true"]{background:var(--petrol);border-color:var(--petrol);color:#fff}
+.archive-grid{display:grid;gap:1.3rem;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
+
+/* fallback tile when an item has no photo (branded, on-motif) */
+.card-img-fallback{display:flex;align-items:center;justify-content:center;aspect-ratio:16/9;background:linear-gradient(135deg,var(--petrol),var(--abyss));position:relative;overflow:hidden}
+.archive-grid .card-img-fallback{aspect-ratio:3/2}
+.card-img-fallback span{position:relative;z-index:1;font-family:var(--f-display);font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:rgba(255,255,255,.92);font-size:1.02rem;text-align:center;padding:0 1rem;line-height:1.15}
+.card-img-fallback::after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(90deg,rgba(255,255,255,.07) 0 2px,transparent 2px 9px);opacity:.6}
+.card-img-fallback.tint-media{background:linear-gradient(135deg,#38566a,#0d2431)}
+.card-img-fallback.tint-coalition{background:linear-gradient(135deg,var(--kelp),#123a24)}
+
+/* compact archive card image ratio */
+.archive-grid .card-img{aspect-ratio:3/2}

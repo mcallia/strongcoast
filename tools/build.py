@@ -20,9 +20,9 @@ NAV = [
     ("plan", "why-mpas.html", "The Plan"),
     ("tankers", "no-tankers.html", "No Tankers"),
     ("watch", "coast-watch.html", "Coast Watch"),
+    ("explainers", "explainers.html", "Explainers"),
+    ("humans", "humans.html", "Humans"),
     ("news", "newsroom.html", "Newsroom"),
-    ("voices", "voices.html", "Voices"),
-    ("about", "about.html", "About"),
 ]
 
 def nav_html(current):
@@ -88,9 +88,11 @@ FOOTER = """</main>
       <a href="why-mpas.html">The MPA Network Plan</a>
       <a href="no-tankers.html">The Tanker Ban</a>
       <a href="coast-watch.html">Coast Watch</a>
+      <a href="explainers.html">Explainers &middot; Library</a>
+      <a href="humans.html">Humans of the Coast</a>
       <a href="newsroom.html">Newsroom</a>
-      <a href="explainers.html">Explainers</a>
-      <a href="voices.html">Voices of the Coast</a>
+      <a href="resources.html">Resources &amp; Allies</a>
+      <a href="about.html">About</a>
     </nav>
     <nav class="foot-col" aria-label="Act">
       <h3>Act</h3>
