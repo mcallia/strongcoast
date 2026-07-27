@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T01:16:01.544Z",
+ "updated": "2026-07-27T04:03:10.453Z",
  "items": [
   {
    "cat": "coalition",
@@ -35,17 +35,11 @@
   },
   {
    "cat": "media",
-   "source": "Washington Times",
-   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
    "source": "AP News",
    "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://dims.apnews.com/dims4/default/9109e45/2147483647/strip/true/crop/4000x2665+0+148/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2Fd47d6d6b19d03b715b6a6a16dd86%2Ff0223298a4f146639100db5436be85d9"
   },
   {
    "cat": "media",
@@ -59,8 +53,23 @@
    "source": "APTN News",
    "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "The Independent",
+   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
    "date": "2026-07-02",
-   "img": "https://www.aptnnews.ca/wp-content/uploads/2026/07/CARNEY-EBEY-PARTNERSHIP.jpg"
+   "img": "https://static.independent.co.uk/2026/07/02/19/Canada_Carney_56498.jpg?width=1200&height=800&crop=1200:800"
+  },
+  {
+   "cat": "media",
+   "source": "TradingView",
+   "title": "Canada's Carney says pact with British Columbia maintains north coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZzBxWHNrV3pJMkZTakxlZWxEeE81YlNLUU5hOXh4VThrNmdUZDhxRUt5UFV0QjlwSkhXbGxjZHk2QnhnSFhKZmY4WnMtVUlDRHFDSDA0REZWQjZheGQySnFBNVZ1MU5lREp5QWFhYW5MM01PeWRnbi1Eem1LdERyOS1laDkySHlJMWcxWV9aMXdEbDZtRWgyRmx3aU1ab3d1dlBON3VOQUJnbjQ0UmY1cTVYZ3ZDeUVwTFJDc2NpYzAtVTZsUVprVV83ZGFhM2Vpa0NXMDJtaWhvby1OUzRVQXp3VUhYT2xnLVE?oc=5",
+   "date": "2026-07-02",
+   "img": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
   },
   {
    "cat": "media",
@@ -74,14 +83,8 @@
    "source": "CityNews Halifax",
    "title": "Feds make multibillion-dollar MOU with B.C. to maintain oil tanker ban",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlRxVHB0WnhCR3Nicmd0NHRSWU96V0trU1NTNml3a0RWVUpDQTYtclYwU2pyR2pEcGVIeHctcVdZbXlmTGVac1pIbVNJci1lRVg2Z0dPeFdxRGN0SGx6RW1PcEFIVjdpMnczUDRGaHFLNE4xSDcyVWRWS1R0RzRubkZRRGNianJoVV9iZUxrVEQ2NllLREx1Vk54dFB4dHdUMndzYjdBZzRZM3RIcFB3NHJYdzduQQ?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
-   "source": "Vancouver Sun",
-   "title": "Ottawa announces $3 billion for Massey Tunnel replacement, while North Coast tanker ban remains in place",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc2pVYXZWaXhVeEtlSDFSNjNfY0pyNTJFcmpHVmRBbjZjS1B6OHVlVkRveTdEcDBXWlNEbFJ0ajRsQzVyYVh3N21HcklwV2g2cUNiTXhGdV9EVy1iN3dwR3dVeUV4d3RiUkVLRjdsUFNMQTNvd050bFk4UDhhdDhhM3Iwa0lHbnhlQkJHbklpZmp4bXpLUzhxWl91Vy1qZTMtQWlhVm5Jd1R6Y0pfY1FqdlhDc2JJY3Mtb1hsNUFONkl0YzN5NHlhX3hDNVhRbkc2amJzelNWdnRxTk5Dck9uY010WF9idkV3WUhSemZGVQ?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/cb139836-4146-4b8b-b0e6-6402e55af988/7d1395c2-0aa6-4d19-9f19-2afe7ed7c470/1920x1080/match/image.jpg"
   },
   {
    "cat": "campaign",
