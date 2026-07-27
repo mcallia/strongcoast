@@ -72,6 +72,66 @@ function parseRss(xml) {
 
 const fetchText = async (u) => { const r = await fetch(u, UA); if (!r.ok) throw new Error(r.status + " " + u); return r.text(); };
 
+// ---- image enrichment (best-effort; every step wrapped so it can never break the feed) ----
+const withTimeout = (ms, p) => Promise.race([p, new Promise((_, rej) => setTimeout(() => rej(new Error("timeout")), ms))]);
+const BROWSER_UA = { headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125 Safari/537.36" } };
+
+async function ogImage(url) {
+  try {
+    const h = await withTimeout(9000, fetch(url, BROWSER_UA).then((r) => r.text()));
+    const m = h.match(/<meta[^>]+property=["']og:image(?::url)?["'][^>]+content=["']([^"']+)["']/i) ||
+              h.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
+              h.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    if (!m) return null;
+    let img = m[1].replace(/&amp;/g, "&");
+    if (img.startsWith("//")) img = "https:" + img;
+    return /^https?:\/\//.test(img) ? img : null;
+  } catch { return null; }
+}
+
+// Resolve a Google News RSS link to its real publisher URL (Google batchexecute).
+async function resolveGoogleNews(url) {
+  try {
+    const id = (url.match(/\/articles\/([^?/]+)/) || [])[1];
+    if (!id) return null;
+    const page = await withTimeout(9000, fetch("https://news.google.com/rss/articles/" + id, BROWSER_UA).then((r) => r.text()));
+    const sig = (page.match(/data-n-a-sg="([^"]+)"/) || [])[1];
+    const ts = (page.match(/data-n-a-ts="([^"]+)"/) || [])[1];
+    if (!sig || !ts) return null;
+    const inner = `["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],"${id}",${ts},"${sig}"]`;
+    const body = "f.req=" + encodeURIComponent(JSON.stringify([[["Fbv4je", inner]]]));
+    const t = await withTimeout(9000, fetch("https://news.google.com/_/DotsSplashUi/data/batchexecute",
+      { method: "POST", headers: { ...BROWSER_UA.headers, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8" }, body })
+      .then((r) => r.text()));
+    const m = t.match(/https?:\/\/(?!news\.google)[^\\"]+/);
+    return m ? m[0] : null;
+  } catch { return null; }
+}
+
+async function imageFor(item) {
+  try {
+    if (/news\.google\.com/.test(item.url)) {
+      // the batchexecute decode is occasionally flaky — one retry lifts the hit rate
+      let real = await resolveGoogleNews(item.url);
+      if (!real) real = await resolveGoogleNews(item.url);
+      return real ? await ogImage(real) : null;
+    }
+    // coalition/direct items: pull the article's own og:image
+    return await ogImage(item.url);
+  } catch { return null; }
+}
+
+// enrich an array in small concurrent batches (campaign items skip — the site maps them to self-hosted thumbnails)
+async function enrichImages(items) {
+  const targets = items.filter((i) => i.cat !== "campaign" && !i.img);
+  const CONC = 5;
+  for (let i = 0; i < targets.length; i += CONC) {
+    const batch = targets.slice(i, i + CONC);
+    const imgs = await Promise.all(batch.map((it) => imageFor(it)));
+    batch.forEach((it, j) => { if (imgs[j]) it.img = imgs[j]; });
+  }
+}
+
 async function main() {
   let current = { items: [] };
   try { current = JSON.parse(readFileSync(NEWS_PATH, "utf8")); } catch {}
@@ -113,7 +173,13 @@ async function main() {
   // Final scrub — drops any stale cached opponent op-ed re-added via keepOld.
   const cleaned = merged.filter((i) => !blocked(i) && !(i.cat === "media" && opponentOpinion(i)));
   cleaned.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
-  writeFileSync(NEWS_PATH, JSON.stringify({ updated: new Date().toISOString(), items: cleaned.slice(0, 44) }, null, 1) + "\n");
-  console.log("wrote", Math.min(cleaned.length, 44), "items");
+  const top = cleaned.slice(0, 44);
+
+  // Best-effort thumbnails (og:image). Preserves any img already present; never throws.
+  try { await enrichImages(top); } catch (e) { console.warn("image enrichment skipped:", e.message); }
+  console.log("images:", top.filter((i) => i.img).length + "/" + top.length);
+
+  writeFileSync(NEWS_PATH, JSON.stringify({ updated: new Date().toISOString(), items: top }, null, 1) + "\n");
+  console.log("wrote", top.length, "items");
 }
 main().catch((e) => { console.error(e); process.exit(1); });

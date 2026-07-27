@@ -14,6 +14,16 @@
   };
   var libMap = {};
 
+  // Broken/hotlink-blocked thumbnails degrade to a branded tile instead of a broken image.
+  window.__scImgFail = window.__scImgFail || function (img) {
+    var d = document.createElement("div");
+    d.className = "card-img card-img-fallback " + (img.getAttribute("data-tint") || "");
+    var s = document.createElement("span");
+    s.textContent = img.getAttribute("data-src") || "";
+    d.appendChild(s);
+    if (img.parentNode) img.parentNode.replaceChild(d, img);
+  };
+
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
@@ -25,9 +35,11 @@
     return isNaN(dt) ? d : dt.toLocaleDateString("en-CA", { year: "numeric", month: "short", day: "numeric" });
   }
   function media(it) {
-    var img = it.img || libMap[it.url];
-    if (img) return '<img class="card-img" loading="lazy" src="' + esc(img) + '" alt="">';
     var cat = CAT[it.cat] || CAT.media;
+    var img = libMap[it.url] || it.img; // self-hosted Strong Coast thumb wins; else og:image
+    if (img) return '<img class="card-img" loading="lazy" src="' + esc(img) + '" alt="" ' +
+      'data-src="' + esc(it.source || cat.label) + '" data-tint="' + cat.tint + '" ' +
+      'onerror="window.__scImgFail&&window.__scImgFail(this)">';
     return '<div class="card-img card-img-fallback ' + cat.tint + '"><span>' + esc(it.source || cat.label) + "</span></div>";
   }
   function card(it) {
