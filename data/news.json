@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T09:05:25.145Z",
+ "updated": "2026-07-28T14:38:32.980Z",
  "items": [
   {
    "cat": "coalition",
@@ -35,6 +35,13 @@
   },
   {
    "cat": "media",
+   "source": "Reuters",
+   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
    "source": "Washington Times",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
@@ -42,9 +49,9 @@
   },
   {
    "cat": "media",
-   "source": "Reuters",
-   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
+   "source": "APTN News",
+   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
    "date": "2026-07-02"
   },
   {
@@ -57,13 +64,6 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
    "source": "TradingView",
    "title": "Canada's Carney says pact with British Columbia maintains north coast oil tanker ban",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZzBxWHNrV3pJMkZTakxlZWxEeE81YlNLUU5hOXh4VThrNmdUZDhxRUt5UFV0QjlwSkhXbGxjZHk2QnhnSFhKZmY4WnMtVUlDRHFDSDA0REZWQjZheGQySnFBNVZ1MU5lREp5QWFhYW5MM01PeWRnbi1Eem1LdERyOS1laDkySHlJMWcxWV9aMXdEbDZtRWgyRmx3aU1ab3d1dlBON3VOQUJnbjQ0UmY1cTVYZ3ZDeUVwTFJDc2NpYzAtVTZsUVprVV83ZGFhM2Vpa0NXMDJtaWhvby1OUzRVQXp3VUhYT2xnLVE?oc=5",
@@ -72,18 +72,18 @@
   },
   {
    "cat": "media",
+   "source": "Bloomberg",
+   "title": "Carney Keeps North BC Tanker Ban, Signaling Alberta’s Pipeline Will Go South",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHM4TUJRbDczdE9WM0NpUWN4YUlwdzNjektzTFk2OC05eDJDa29zSFFudjk3LXVsdVg0QnF2Q0Rkd1ZCSkY5Tlh0TG0ybTRxbGdvZ25lZGlhQ3lkbDhPOFdiMU4yZnh1ckZvN1MxOElyRzRGTGZvcGZnUXlUdVdhYy16UU1wOXUzMVlMdERXc1RBTlExT1pfVG0tLWVUc25GWTU2WWs3OFA3OEQ3RXM5MFZCQzdfVUJUTmF3XzltbmlTUQ?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
    "source": "CityNews Halifax",
    "title": "Feds make multibillion-dollar MOU with B.C. to maintain oil tanker ban",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlRxVHB0WnhCR3Nicmd0NHRSWU96V0trU1NTNml3a0RWVUpDQTYtclYwU2pyR2pEcGVIeHctcVdZbXlmTGVac1pIbVNJci1lRVg2Z0dPeFdxRGN0SGx6RW1PcEFIVjdpMnczUDRGaHFLNE4xSDcyVWRWS1R0RzRubkZRRGNianJoVV9iZUxrVEQ2NllLREx1Vk54dFB4dHdUMndzYjdBZzRZM3RIcFB3NHJYdzduQQ?oc=5",
    "date": "2026-07-02",
    "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/cb139836-4146-4b8b-b0e6-6402e55af988/7d1395c2-0aa6-4d19-9f19-2afe7ed7c470/1920x1080/match/image.jpg"
-  },
-  {
-   "cat": "media",
-   "source": "Bloomberg.com",
-   "title": "Carney Keeps North BC Tanker Ban, Signaling Alberta’s Pipeline Will Go South",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHM4TUJRbDczdE9WM0NpUWN4YUlwdzNjektzTFk2OC05eDJDa29zSFFudjk3LXVsdVg0QnF2Q0Rkd1ZCSkY5Tlh0TG0ybTRxbGdvZ25lZGlhQ3lkbDhPOFdiMU4yZnh1ckZvN1MxOElyRzRGTGZvcGZnUXlUdVdhYy16UU1wOXUzMVlMdERXc1RBTlExT1pfVG0tLWVUc25GWTU2WWs3OFA3OEQ3RXM5MFZCQzdfVUJUTmF3XzltbmlTUQ?oc=5",
-   "date": "2026-07-02"
   },
   {
    "cat": "campaign",
