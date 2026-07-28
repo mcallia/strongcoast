@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T19:55:49.277Z",
+ "updated": "2026-07-28T03:37:01.970Z",
  "items": [
   {
    "cat": "coalition",
@@ -78,14 +78,6 @@
    "date": "2026-07-02"
   },
   {
-   "cat": "media",
-   "source": "CityNews Halifax",
-   "title": "Feds make multibillion-dollar MOU with B.C. to maintain oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlRxVHB0WnhCR3Nicmd0NHRSWU96V0trU1NTNml3a0RWVUpDQTYtclYwU2pyR2pEcGVIeHctcVdZbXlmTGVac1pIbVNJci1lRVg2Z0dPeFdxRGN0SGx6RW1PcEFIVjdpMnczUDRGaHFLNE4xSDcyVWRWS1R0RzRubkZRRGNianJoVV9iZUxrVEQ2NllLREx1Vk54dFB4dHdUMndzYjdBZzRZM3RIcFB3NHJYdzduQQ?oc=5",
-   "date": "2026-07-02",
-   "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/cb139836-4146-4b8b-b0e6-6402e55af988/7d1395c2-0aa6-4d19-9f19-2afe7ed7c470/1920x1080/match/image.jpg"
-  },
-  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "Researchers and Coastal Nations Report Improved Salmon Returns After Farm Closures",
@@ -98,7 +90,7 @@
    "title": "Ottawa’s Renewed Salmon Funding Spawns Both Hope and Skepticism",
    "url": "https://westcoastnow.ca/2026/05/13/ottawas-renewed-salmon-funding-spawns-both-hope-and-skepticism/",
    "date": "2026-05-13",
-   "img": "https://ftp.westcoastnow.ca/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
+   "img": "https://westcoastnow.ca/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
   },
   {
    "cat": "media",
@@ -164,6 +156,14 @@
    "title": "The Story of Salmon in BC",
    "url": "https://strongcoast.org/the-story-of-salmon-in-bc/",
    "date": "2025-11-21"
+  },
+  {
+   "cat": "media",
+   "source": "Policy Options",
+   "title": "Rethinking Canada’s oil tanker ban for a new era of reconciliation",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BODZBSEVjNUR4Q2VMeHlzTFM5T1FmMEs3bWR2TzNUY0paamFjVnFjY3ktVGcwU0pjaVp2c3FKTm5RX1ZPQ3VaVTRTVjRGTl9QZXk5SFBrZVN6LXl6c0UzeHJjeTlHMXFNUDNSNmtB?oc=5",
+   "date": "2025-10-27",
+   "img": "https://policyoptions.irpp.org/wp-content/uploads/2025/10/CP220101-tanker-.jpg"
   },
   {
    "cat": "campaign",
