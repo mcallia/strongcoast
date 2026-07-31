@@ -1,6 +1,14 @@
 {
- "updated": "2026-07-30T19:53:13.362Z",
+ "updated": "2026-07-31T03:51:16.604Z",
  "items": [
+  {
+   "cat": "media",
+   "source": "houston-today.com",
+   "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVF2Y1BZZGdZQ2t2NU5RYmJkaUxjNWROdkhvd0Z0NFlqckhiYmZDRjlEVlNlZF8zM3dEYXNCbnZMcTdkajZQSjRqSUFuTFN2SV9KbkhoZXVwOXVjdmVaS3dLTV83MjJHQ2dUbEtiazBfTXlac05Fck52RVJsVjVwVFFpOUhYb2xhV3pIb1FJNm1Jd1RjNUk5U1A3OGF0RldfZF81QlRyaC0zeXc2R25wRjZROA?oc=5",
+   "date": "2026-07-30",
+   "img": "https://houston-today.com/wp-content/uploads/sites/43/2026/07/ebywater.jpg?w=1024"
+  },
   {
    "cat": "coalition",
    "source": "Coastal First Nations",
@@ -49,18 +57,18 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
-   "source": "AP News",
+   "source": "apnews.com",
    "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
    "date": "2026-07-02",
    "img": "https://dims.apnews.com/dims4/default/9109e45/2147483647/strip/true/crop/4000x2665+0+148/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2Fd47d6d6b19d03b715b6a6a16dd86%2Ff0223298a4f146639100db5436be85d9"
+  },
+  {
+   "cat": "media",
+   "source": "APTN News",
+   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
+   "date": "2026-07-02"
   },
   {
    "cat": "media",
@@ -77,13 +85,6 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlRxVHB0WnhCR3Nicmd0NHRSWU96V0trU1NTNml3a0RWVUpDQTYtclYwU2pyR2pEcGVIeHctcVdZbXlmTGVac1pIbVNJci1lRVg2Z0dPeFdxRGN0SGx6RW1PcEFIVjdpMnczUDRGaHFLNE4xSDcyVWRWS1R0RzRubkZRRGNianJoVV9iZUxrVEQ2NllLREx1Vk54dFB4dHdUMndzYjdBZzRZM3RIcFB3NHJYdzduQQ?oc=5",
    "date": "2026-07-02",
    "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/cb139836-4146-4b8b-b0e6-6402e55af988/7d1395c2-0aa6-4d19-9f19-2afe7ed7c470/1920x1080/match/image.jpg"
-  },
-  {
-   "cat": "media",
-   "source": "Bloomberg.com",
-   "title": "Carney Keeps North BC Tanker Ban, Signaling Alberta’s Pipeline Will Go South",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHM4TUJRbDczdE9WM0NpUWN4YUlwdzNjektzTFk2OC05eDJDa29zSFFudjk3LXVsdVg0QnF2Q0Rkd1ZCSkY5Tlh0TG0ybTRxbGdvZ25lZGlhQ3lkbDhPOFdiMU4yZnh1ckZvN1MxOElyRzRGTGZvcGZnUXlUdVdhYy16UU1wOXUzMVlMdERXc1RBTlExT1pfVG0tLWVUc25GWTU2WWs3OFA3OEQ3RXM5MFZCQzdfVUJUTmF3XzltbmlTUQ?oc=5",
-   "date": "2026-07-02"
   },
   {
    "cat": "campaign",
