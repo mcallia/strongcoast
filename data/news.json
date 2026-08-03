@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-02T19:35:17.478Z",
+ "updated": "2026-08-03T03:55:28.121Z",
  "items": [
   {
    "cat": "media",
-   "source": "Houston Today",
+   "source": "The Interior News",
    "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVF2Y1BZZGdZQ2t2NU5RYmJkaUxjNWROdkhvd0Z0NFlqckhiYmZDRjlEVlNlZF8zM3dEYXNCbnZMcTdkajZQSjRqSUFuTFN2SV9KbkhoZXVwOXVjdmVaS3dLTV83MjJHQ2dUbEtiazBfTXlac05Fck52RVJsVjVwVFFpOUhYb2xhV3pIb1FJNm1Jd1RjNUk5U1A3OGF0RldfZF81QlRyaC0zeXc2R25wRjZROA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTC1mZHFtdXpxWjJLOHFjUmp4MGZzbTQwQm9HX19ZNGFLWjc3VmdXdWFEQkNZWVp2Y1RJVFZuN1EzWXlIYXB0a0dtUDAxbjVpMUoxaGVkN2hROW1sSThsb3lnRWR6Q05nRk9IcVZSUEZJWHZCbDFCdFFJdUVMbzhpdEFEc08yVTFnTm96b1lOVmVQZUZTbkJSMTJvc19OTFRIVFVwOEc1ckoxUE8xSTl3LVhRWQ?oc=5",
    "date": "2026-07-30",
-   "img": "https://houston-today.com/wp-content/uploads/sites/43/2026/07/ebywater.jpg?w=1024"
+   "img": "https://interior-news.com/wp-content/uploads/sites/16/2026/07/ebywater.jpg?w=1024"
   },
   {
    "cat": "media",
@@ -43,7 +43,7 @@
   },
   {
    "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "B.C. secures landmark agreement to power decades of jobs, prosperity, growth",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVGd1TlJVN3lPOXpvLWFwTlFWZGJ1ZHprR0FMUndWemV5dEk0eUZ0RFVZaEw2bGIyTUFZSTJmbTYzaFJBcm9fTllKRGZUSVJJdGo4NUpDUk82Xzlhb1RnZw?oc=5",
    "date": "2026-07-02",
@@ -65,7 +65,7 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
+   "source": "aptnnews.ca",
    "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
    "date": "2026-07-02"
@@ -80,7 +80,7 @@
   },
   {
    "cat": "media",
-   "source": "TradingView",
+   "source": "tradingview.com",
    "title": "Canada's Carney says pact with British Columbia maintains north coast oil tanker ban",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZzBxWHNrV3pJMkZTakxlZWxEeE81YlNLUU5hOXh4VThrNmdUZDhxRUt5UFV0QjlwSkhXbGxjZHk2QnhnSFhKZmY4WnMtVUlDRHFDSDA0REZWQjZheGQySnFBNVZ1MU5lREp5QWFhYW5MM01PeWRnbi1Eem1LdERyOS1laDkySHlJMWcxWV9aMXdEbDZtRWgyRmx3aU1ab3d1dlBON3VOQUJnbjQ0UmY1cTVYZ3ZDeUVwTFJDc2NpYzAtVTZsUVprVV83ZGFhM2Vpa0NXMDJtaWhvby1OUzRVQXp3VUhYT2xnLVE?oc=5",
    "date": "2026-07-02",
@@ -99,7 +99,7 @@
    "title": "Ottawa’s Renewed Salmon Funding Spawns Both Hope and Skepticism",
    "url": "https://westcoastnow.ca/2026/05/13/ottawas-renewed-salmon-funding-spawns-both-hope-and-skepticism/",
    "date": "2026-05-13",
-   "img": "https://ftp.westcoastnow.ca/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
+   "img": "https://smtp.westcoastnow.ca/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
   },
   {
    "cat": "media",
@@ -117,7 +117,7 @@
   },
   {
    "cat": "media",
-   "source": "The University of British Columbia",
+   "source": "science.ubc.ca",
    "title": "Bottom trawling catches thousands of fish species, including those most at-risk",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
    "date": "2026-04-08",
