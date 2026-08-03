@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T15:17:16.026Z",
+ "updated": "2026-08-03T19:58:50.640Z",
  "items": [
   {
    "cat": "media",
@@ -8,14 +8,6 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTC1mZHFtdXpxWjJLOHFjUmp4MGZzbTQwQm9HX19ZNGFLWjc3VmdXdWFEQkNZWVp2Y1RJVFZuN1EzWXlIYXB0a0dtUDAxbjVpMUoxaGVkN2hROW1sSThsb3lnRWR6Q05nRk9IcVZSUEZJWHZCbDFCdFFJdUVMbzhpdEFEc08yVTFnTm96b1lOVmVQZUZTbkJSMTJvc19OTFRIVFVwOEc1ckoxUE8xSTl3LVhRWQ?oc=5",
    "date": "2026-07-30",
    "img": "https://interior-news.com/wp-content/uploads/sites/16/2026/07/ebywater.jpg?w=1024"
-  },
-  {
-   "cat": "media",
-   "source": "CHEK News",
-   "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
-   "date": "2026-07-29",
-   "img": "https://cheknews.ca/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-5.30.27-PM-scaled-e1785371571702.png"
   },
   {
    "cat": "coalition",
@@ -35,7 +27,15 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
+   "source": "CityNews Halifax",
+   "title": "Feds make multibillion-dollar MOU with B.C. to maintain oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlRxVHB0WnhCR3Nicmd0NHRSWU96V0trU1NTNml3a0RWVUpDQTYtclYwU2pyR2pEcGVIeHctcVdZbXlmTGVac1pIbVNJci1lRVg2Z0dPeFdxRGN0SGx6RW1PcEFIVjdpMnczUDRGaHFLNE4xSDcyVWRWS1R0RzRubkZRRGNianJoVV9iZUxrVEQ2NllLREx1Vk54dFB4dHdUMndzYjdBZzRZM3RIcFB3NHJYdzduQQ?oc=5",
+   "date": "2026-07-03",
+   "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/cb139836-4146-4b8b-b0e6-6402e55af988/7d1395c2-0aa6-4d19-9f19-2afe7ed7c470/1920x1080/match/image.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "cbc.ca",
    "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
    "date": "2026-07-02",
@@ -43,7 +43,7 @@
   },
   {
    "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "B.C. secures landmark agreement to power decades of jobs, prosperity, growth",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVGd1TlJVN3lPOXpvLWFwTlFWZGJ1ZHprR0FMUndWemV5dEk0eUZ0RFVZaEw2bGIyTUFZSTJmbTYzaFJBcm9fTllKRGZUSVJJdGo4NUpDUk82Xzlhb1RnZw?oc=5",
    "date": "2026-07-02",
