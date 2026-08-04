@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03T19:58:50.640Z",
+ "updated": "2026-08-04T03:38:18.861Z",
  "items": [
   {
    "cat": "media",
@@ -27,7 +27,7 @@
   },
   {
    "cat": "media",
-   "source": "CityNews Halifax",
+   "source": "halifax.citynews.ca",
    "title": "Feds make multibillion-dollar MOU with B.C. to maintain oil tanker ban",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlRxVHB0WnhCR3Nicmd0NHRSWU96V0trU1NTNml3a0RWVUpDQTYtclYwU2pyR2pEcGVIeHctcVdZbXlmTGVac1pIbVNJci1lRVg2Z0dPeFdxRGN0SGx6RW1PcEFIVjdpMnczUDRGaHFLNE4xSDcyVWRWS1R0RzRubkZRRGNianJoVV9iZUxrVEQ2NllLREx1Vk54dFB4dHdUMndzYjdBZzRZM3RIcFB3NHJYdzduQQ?oc=5",
    "date": "2026-07-03",
@@ -35,11 +35,10 @@
   },
   {
    "cat": "media",
-   "source": "cbc.ca",
+   "source": "CBC",
    "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
-   "date": "2026-07-02",
-   "img": "https://i.cbc.ca/ais/b5b5c2f9-66d7-4ae5-832a-f857524819aa,1776987426065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
+   "date": "2026-07-02"
   },
   {
    "cat": "media",
@@ -99,7 +98,7 @@
    "title": "Ottawa’s Renewed Salmon Funding Spawns Both Hope and Skepticism",
    "url": "https://westcoastnow.ca/2026/05/13/ottawas-renewed-salmon-funding-spawns-both-hope-and-skepticism/",
    "date": "2026-05-13",
-   "img": "https://smtp.westcoastnow.ca/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
+   "img": "https://www.westcoastnow.ca/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
   },
   {
    "cat": "media",
