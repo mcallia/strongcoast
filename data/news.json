@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T09:11:07.250Z",
+ "updated": "2026-08-04T14:40:15.631Z",
  "items": [
   {
    "cat": "coalition",
@@ -30,7 +30,8 @@
    "source": "CBC",
    "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://i.cbc.ca/ais/b5b5c2f9-66d7-4ae5-832a-f857524819aa,1776987426065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
   },
   {
    "cat": "media",
@@ -42,13 +43,6 @@
   },
   {
    "cat": "media",
-   "source": "Reuters",
-   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
    "source": "Washington Times",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
@@ -56,18 +50,25 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
+   "source": "Reuters",
+   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
    "date": "2026-07-02"
   },
   {
    "cat": "media",
-   "source": "AP News",
+   "source": "apnews.com",
    "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
    "date": "2026-07-02",
    "img": "https://dims.apnews.com/dims4/default/9109e45/2147483647/strip/true/crop/4000x2665+0+148/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2Fd47d6d6b19d03b715b6a6a16dd86%2Ff0223298a4f146639100db5436be85d9"
+  },
+  {
+   "cat": "media",
+   "source": "APTN News",
+   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
+   "date": "2026-07-02"
   },
   {
    "cat": "media",
