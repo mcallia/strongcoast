@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T13:17:25.666Z",
+ "updated": "2026-08-09T19:03:00.384Z",
  "items": [
   {
    "cat": "coalition",
@@ -11,7 +11,7 @@
   },
   {
    "cat": "media",
-   "source": "houston-today.com",
+   "source": "Houston Today",
    "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVF2Y1BZZGdZQ2t2NU5RYmJkaUxjNWROdkhvd0Z0NFlqckhiYmZDRjlEVlNlZF8zM3dEYXNCbnZMcTdkajZQSjRqSUFuTFN2SV9KbkhoZXVwOXVjdmVaS3dLTV83MjJHQ2dUbEtiazBfTXlac05Fck52RVJsVjVwVFFpOUhYb2xhV3pIb1FJNm1Jd1RjNUk5U1A3OGF0RldfZF81QlRyaC0zeXc2R25wRjZROA?oc=5",
    "date": "2026-07-30",
@@ -51,18 +51,18 @@
   },
   {
    "cat": "media",
-   "source": "Washington Times",
-   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
    "source": "AP News",
    "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
    "date": "2026-07-02",
    "img": "https://dims.apnews.com/dims4/default/9109e45/2147483647/strip/true/crop/4000x2665+0+148/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2Fd47d6d6b19d03b715b6a6a16dd86%2Ff0223298a4f146639100db5436be85d9"
+  },
+  {
+   "cat": "media",
+   "source": "Washington Times",
+   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
+   "date": "2026-07-02"
   },
   {
    "cat": "media",
@@ -103,7 +103,7 @@
   },
   {
    "cat": "media",
-   "source": "dfo-mpo.gc.ca",
+   "source": "Pêches et Océans Canada",
    "title": "Great Bear Sea (Northern Shelf Bioregion)",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
    "date": "2026-04-09"
