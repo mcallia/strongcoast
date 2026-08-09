@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T07:19:41.731Z",
+ "updated": "2026-08-09T13:17:25.666Z",
  "items": [
   {
    "cat": "coalition",
@@ -11,7 +11,7 @@
   },
   {
    "cat": "media",
-   "source": "Houston Today",
+   "source": "houston-today.com",
    "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVF2Y1BZZGdZQ2t2NU5RYmJkaUxjNWROdkhvd0Z0NFlqckhiYmZDRjlEVlNlZF8zM3dEYXNCbnZMcTdkajZQSjRqSUFuTFN2SV9KbkhoZXVwOXVjdmVaS3dLTV83MjJHQ2dUbEtiazBfTXlac05Fck52RVJsVjVwVFFpOUhYb2xhV3pIb1FJNm1Jd1RjNUk5U1A3OGF0RldfZF81QlRyaC0zeXc2R25wRjZROA?oc=5",
    "date": "2026-07-30",
@@ -32,14 +32,6 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZFJ3NHQ3XzN1WE9mX3NNbWhZODQ0WjFMVWhyZlVLdHdCdERkQkNNMFVER1N6Z2NzNGdpaVZmajRDUXRmSUpSNVRVcXluc1hYdXBzVEw3ZW4xODFZTEhuaERjdmVKNHN5YUFNMDhSZG10ZG1wNjJZSVJnak96dw?oc=5",
    "date": "2026-07-03",
    "img": "https://pcweb2.azureedge.net/-/media/amnc-nmca/bc/central-coast/no-pc-rights--for-use-on-this-page-only/calvert-island-markus-thompson-thalassia-no-rights-1200-630.jpg?modified=20240119200838"
-  },
-  {
-   "cat": "media",
-   "source": "CTV News",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGthOFFSTnpOdEExZjNzMmpnLXhFMlRnd3NtZ1ZVN0xNSDd5OUVkTFBoSlhRVkpVWDgxRmtadGpaeXNVcFFrM3d3a05jaXQ5Zm81LWNnVTM3WUs2NUY3QXFMQUlpLV9CZEFjblpQQjQ5VTF2NWlQU21PQkUxVnhHcDVSeTNaMERjWW1oam16ai1VcXU0SEdILWJaWklkeGJyd3JHN2RLUmJfT3M?oc=5",
-   "date": "2026-07-03",
-   "img": "https://www.ctvnews.ca/resizer/v2/IT5CLDHBUIHY4TIHU5WKZWNQTQ.jpg?smart=true&auth=192c44ac0515aa2bc69b7e790ed67c69f550d41972a3d95385db201bb0b078dd&width=1200&height=630"
   },
   {
    "cat": "media",
@@ -87,6 +79,14 @@
    "date": "2026-07-02"
   },
   {
+   "cat": "media",
+   "source": "CityNews Edmonton",
+   "title": "Feds make multibillion-dollar MOU with B.C. to maintain oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGF2XzRCNTdqQjVuZzZNVlRhdk83NzdaTm04NjgyNmlqbWZSQ29xbHZXbFU2Z3RRLU1WXzk5SU9IWWVrelhKdXhlejVXTTdER21zcld1bENZRjBwVHhZRFVZTUxGazJHNW1BVmd5eTg3d00tSE5ZbEx5Zmpic0VpaFFoOU1UQXowbHJGSlFwNDFzMXZFSXg1enJDbW5GRkJGTFo3Zmo4WWo0YkRzcVlWaEsxSVRaSEE?oc=5",
+   "date": "2026-07-02",
+   "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/cb139836-4146-4b8b-b0e6-6402e55af988/7d1395c2-0aa6-4d19-9f19-2afe7ed7c470/1920x1080/match/image.jpg"
+  },
+  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "Researchers and Coastal Nations Report Improved Salmon Returns After Farm Closures",
@@ -103,7 +103,7 @@
   },
   {
    "cat": "media",
-   "source": "Pêches et Océans Canada",
+   "source": "dfo-mpo.gc.ca",
    "title": "Great Bear Sea (Northern Shelf Bioregion)",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
    "date": "2026-04-09"
