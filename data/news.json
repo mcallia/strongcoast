@@ -1,6 +1,13 @@
 {
- "updated": "2026-08-12T02:47:06.220Z",
+ "updated": "2026-08-12T07:55:03.258Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "The Century-Old Fish Holding the Coast Together — From a Mile Down to Your Dinner Plate",
+   "url": "https://strongcoast.org/the-century-old-fish-holding-the-coast-together-from-a-mile-down-to-your-dinner-plate/",
+   "date": "2026-08-12"
+  },
   {
    "cat": "coalition",
    "source": "Coastal First Nations",
@@ -11,7 +18,7 @@
   },
   {
    "cat": "media",
-   "source": "interior-news.com",
+   "source": "The Interior News",
    "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTC1mZHFtdXpxWjJLOHFjUmp4MGZzbTQwQm9HX19ZNGFLWjc3VmdXdWFEQkNZWVp2Y1RJVFZuN1EzWXlIYXB0a0dtUDAxbjVpMUoxaGVkN2hROW1sSThsb3lnRWR6Q05nRk9IcVZSUEZJWHZCbDFCdFFJdUVMbzhpdEFEc08yVTFnTm96b1lOVmVQZUZTbkJSMTJvc19OTFRIVFVwOEc1ckoxUE8xSTl3LVhRWQ?oc=5",
    "date": "2026-07-30",
@@ -19,7 +26,7 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
+   "source": "cheknews.ca",
    "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
@@ -66,7 +73,7 @@
   },
   {
    "cat": "media",
-   "source": "globalnews.ca",
+   "source": "Global News",
    "title": "Ottawa and B.C. agree to maintain tanker ban. What’s in the new deal?",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
    "date": "2026-07-02",
@@ -81,10 +88,11 @@
   },
   {
    "cat": "media",
-   "source": "Washington Times",
-   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
-   "date": "2026-07-02"
+   "source": "CityNews Halifax",
+   "title": "Feds make multibillion-dollar MOU with B.C. to maintain oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlRxVHB0WnhCR3Nicmd0NHRSWU96V0trU1NTNml3a0RWVUpDQTYtclYwU2pyR2pEcGVIeHctcVdZbXlmTGVac1pIbVNJci1lRVg2Z0dPeFdxRGN0SGx6RW1PcEFIVjdpMnczUDRGaHFLNE4xSDcyVWRWS1R0RzRubkZRRGNianJoVV9iZUxrVEQ2NllLREx1Vk54dFB4dHdUMndzYjdBZzRZM3RIcFB3NHJYdzduQQ?oc=5",
+   "date": "2026-07-02",
+   "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/cb139836-4146-4b8b-b0e6-6402e55af988/7d1395c2-0aa6-4d19-9f19-2afe7ed7c470/1920x1080/match/image.jpg"
   },
   {
    "cat": "campaign",
@@ -179,13 +187,6 @@
    "title": "The Giant Pacific Octopus: A Titan of BC's Coastal Waters",
    "url": "https://strongcoast.org/the-giant-pacific-octopus-a-titan-of-bcs-coastal-waters/",
    "date": "2025-10-07"
-  },
-  {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "Why BC Sockeye’s 2025 Numbers Don’t Tell the Whole Story",
-   "url": "https://strongcoast.org/why-bc-sockeyes-2025-numbers-dont-tell-the-whole-story/",
-   "date": "2025-09-26"
   }
  ]
 }
