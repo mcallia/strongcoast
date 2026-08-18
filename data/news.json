@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T01:52:56.030Z",
+ "updated": "2026-08-18T07:06:05.473Z",
  "items": [
   {
    "cat": "campaign",
@@ -26,7 +26,7 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
+   "source": "cheknews.ca",
    "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
@@ -53,7 +53,8 @@
    "source": "BC Gov News",
    "title": "B.C. secures landmark agreement to power decades of jobs, prosperity, growth",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVGd1TlJVN3lPOXpvLWFwTlFWZGJ1ZHprR0FMUndWemV5dEk0eUZ0RFVZaEw2bGIyTUFZSTJmbTYzaFJBcm9fTllKRGZUSVJJdGo4NUpDUk82Xzlhb1RnZw?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://live.staticflickr.com/65535/55370533516_8dfa83d43a_b.jpg"
   },
   {
    "cat": "media",
@@ -80,16 +81,16 @@
   },
   {
    "cat": "media",
-   "source": "EnergyNow",
-   "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
+   "source": "Reuters",
+   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
    "date": "2026-07-02"
   },
   {
    "cat": "media",
-   "source": "Reuters",
-   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
+   "source": "EnergyNow",
+   "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
    "date": "2026-07-02"
   },
   {
