@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T19:01:10.985Z",
+ "updated": "2026-08-25T01:54:09.690Z",
  "items": [
   {
    "cat": "campaign",
@@ -15,6 +15,14 @@
    "url": "https://coastalfirstnations.ca/resources/indigenous-leaders-gather-to-reaffirm-commitment-to-protect-the-north-coast/",
    "date": "2026-08-04",
    "img": "https://coastalfirstnations.ca/wp-content/uploads/2026/07/P1012831-scaled.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "Vanderhoof Omineca Express",
+   "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDB1VlQ1ZXhMa3dCVTlVbnd1NG1TS2NpMU05V2pRaVZPWjJNM19PdWhlWkhud1ZOaU4wMjlCM2NxSWlsMWZuV09IbzJpZUVqYUl5Y2RjbXFZY01mWWR3THFKM3hQcmxwME15Ui1yS3dCcUJ5d2dkSi05dC1HcFFVUGVTMlJPTkZ5QkJMMDQwTUZuU0NGeHEzZ184WmxObHp2VzRHV0pOZjhoR0t3QmlQVXF3ZVI?oc=5",
+   "date": "2026-07-30",
+   "img": "https://ominecaexpress.com/wp-content/uploads/sites/42/2026/07/ebywater.jpg?w=1024"
   },
   {
    "cat": "media",
@@ -87,6 +95,13 @@
    "date": "2026-07-02"
   },
   {
+   "cat": "media",
+   "source": "EnergyNow",
+   "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
+   "date": "2026-07-02"
+  },
+  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "Researchers and Coastal Nations Report Improved Salmon Returns After Farm Closures",
@@ -122,22 +137,6 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
    "date": "2026-04-08",
    "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
-  },
-  {
-   "cat": "media",
-   "source": "The Globe and Mail",
-   "title": "Tanker sails through Canada’s misunderstood ‘tanker ban’ area off B.C.’s north coast",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUFFemtFQmZ3OVNCYVUxSjBka3ZfTUFqakJlMkpCUGFPYWxhUmhiQnpNVnlFb3ZCaVJ1TGtTcmxZaDdMb3VDaFhYM0xmOG5acWRBNm1lNG94WF9CZjRReDVhSUdSWmhvVHg0d0VxVWU2THh5cFJiTjZ1dVdsbkZqNTdJXzR5djlwa0tOdVA1Y2hEeTU1MWV4UURFR3VhS2ZDYXcxczc3XzZfb0NhMzJoVlJMVEg?oc=5",
-   "date": "2026-03-28",
-   "img": "https://www.theglobeandmail.com/resizer/v2/IRS52IO7VBBYZOI47V4INDG5WQ.JPG?auth=2f4fbdcca97ed0de80cbdec57c3e18c5cc6cad187c068ba2c4c363066fc5b80c&width=1200&height=800&quality=80&smart=true"
-  },
-  {
-   "cat": "media",
-   "source": "The Nature Conservancy",
-   "title": "Sea of Possibility",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
-   "date": "2026-02-13",
-   "img": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/m/a/MAGONLY_ISSUE-1-2026_F_GREATBEAR_1_AspectRatio_4x3.jpg?crop=0%2C225%2C2000%2C1050&wid=1200&hei=630&scl=1.6666666666666667"
   },
   {
    "cat": "campaign",
