@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T02:00:26.054Z",
+ "updated": "2026-08-26T07:10:45.964Z",
  "items": [
   {
    "cat": "coalition",
@@ -66,11 +66,10 @@
   },
   {
    "cat": "media",
-   "source": "CityNews Vancouver",
-   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
-   "date": "2026-07-02",
-   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
+   "source": "Reuters",
+   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
+   "date": "2026-07-02"
   },
   {
    "cat": "media",
@@ -81,11 +80,11 @@
   },
   {
    "cat": "media",
-   "source": "Global News",
-   "title": "Ottawa and B.C. agree to maintain tanker ban. What’s in the new deal?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
+   "source": "CityNews Vancouver",
+   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
    "date": "2026-07-02",
-   "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
+   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
   },
   {
    "cat": "media",
@@ -96,10 +95,11 @@
   },
   {
    "cat": "media",
-   "source": "Reuters",
-   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
-   "date": "2026-07-02"
+   "source": "Global News",
+   "title": "Ottawa and B.C. agree to maintain tanker ban. What’s in the new deal?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
+   "date": "2026-07-02",
+   "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
   },
   {
    "cat": "campaign",
