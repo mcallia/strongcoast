@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T21:04:25.481Z",
+ "updated": "2026-09-02T04:37:00.925Z",
  "items": [
   {
    "cat": "campaign",
@@ -25,7 +25,7 @@
   },
   {
    "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
    "date": "2026-07-29",
@@ -64,14 +64,6 @@
   },
   {
    "cat": "media",
-   "source": "AP News",
-   "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
-   "date": "2026-07-02",
-   "img": "https://dims.apnews.com/dims4/default/9109e45/2147483647/strip/true/crop/4000x2665+0+148/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F47%2F5a%2Fd47d6d6b19d03b715b6a6a16dd86%2Ff0223298a4f146639100db5436be85d9"
-  },
-  {
-   "cat": "media",
    "source": "CityNews Vancouver",
    "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
@@ -102,9 +94,23 @@
   },
   {
    "cat": "media",
-   "source": "energynow.ca",
+   "source": "EnergyNow",
    "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "APTN News",
+   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "WWLTV.com",
+   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdTFMMVNwR245SlBSVG1BQkNqOGMtS3F2VVZYb2VvbDJuZUYxMmFTamw1MjVONDBUcmpyTG9wampRenVLeE4ycFJ4NERZZEM3Q0FhTWRkd2VlN183QXFSb0hEMVk3M0lXVmExNXJqR3NYalBoN2NCVWxTdG95UndXOVgyazJpSHItYWc3OXVucXZydEh1aXY1dGt1MXBPek80QzNIcE9DWjFndGZMZ0JXeUgtYVdvS1AtWUdZVHg5WWJTSm9GR05PNVpwMXJLM3BxQWJHZE9zcDJsWVpoc3FXTTZPY1lwelFINHFzTnJYTnFDTXh5VDJXalZkQmU1YjZXd2VzZ3lrdGJWcHVQMjVJUXEzOThFOWx1ZktZUQ?oc=5",
    "date": "2026-07-02"
   },
   {
@@ -121,13 +127,6 @@
    "url": "https://westcoastnow.ca/2026/05/13/ottawas-renewed-salmon-funding-spawns-both-hope-and-skepticism/",
    "date": "2026-05-13",
    "img": "https://99.79.78.77/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
-  },
-  {
-   "cat": "media",
-   "source": "Pêches et Océans Canada",
-   "title": "Great Bear Sea (Northern Shelf Bioregion)",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
-   "date": "2026-04-09"
   },
   {
    "cat": "campaign",
