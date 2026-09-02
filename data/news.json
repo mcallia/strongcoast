@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T16:37:13.688Z",
+ "updated": "2026-09-02T21:07:56.029Z",
  "items": [
   {
    "cat": "campaign",
@@ -25,7 +25,7 @@
   },
   {
    "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
    "date": "2026-07-29",
@@ -57,18 +57,18 @@
   },
   {
    "cat": "media",
+   "source": "ca.finance.yahoo.com",
+   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVW5JQVJZRHZJOXhuWFowY0pnVVA1bkctRE1VX2lJNE9CYS05VUotVlhNc3Y3Z3VtZm9xTTdTeEVQVDl5ZS1pMm42akVhcnVkaTI1aWNQNHAtVWxudEt4NXVLWTQxMThqd3dNSDhycHpyYVAxa0xENUQ5d0ZwVlR0aXJtdGNsLVpp?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
    "source": "CityNews Vancouver",
    "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
    "date": "2026-07-02",
    "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
-  },
-  {
-   "cat": "media",
-   "source": "Reuters",
-   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
-   "date": "2026-07-02"
   },
   {
    "cat": "media",
@@ -94,17 +94,25 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
+   "source": "aptnnews.ca",
    "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
    "date": "2026-07-02"
   },
   {
    "cat": "media",
-   "source": "wwltv.com",
+   "source": "WWLTV.com",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdTFMMVNwR245SlBSVG1BQkNqOGMtS3F2VVZYb2VvbDJuZUYxMmFTamw1MjVONDBUcmpyTG9wampRenVLeE4ycFJ4NERZZEM3Q0FhTWRkd2VlN183QXFSb0hEMVk3M0lXVmExNXJqR3NYalBoN2NCVWxTdG95UndXOVgyazJpSHItYWc3OXVucXZydEh1aXY1dGt1MXBPek80QzNIcE9DWjFndGZMZ0JXeUgtYVdvS1AtWUdZVHg5WWJTSm9GR05PNVpwMXJLM3BxQWJHZE9zcDJsWVpoc3FXTTZPY1lwelFINHFzTnJYTnFDTXh5VDJXalZkQmU1YjZXd2VzZ3lrdGJWcHVQMjVJUXEzOThFOWx1ZktZUQ?oc=5",
    "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "TradingView",
+   "title": "Canada's Carney says pact with British Columbia maintains north coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZzBxWHNrV3pJMkZTakxlZWxEeE81YlNLUU5hOXh4VThrNmdUZDhxRUt5UFV0QjlwSkhXbGxjZHk2QnhnSFhKZmY4WnMtVUlDRHFDSDA0REZWQjZheGQySnFBNVZ1MU5lREp5QWFhYW5MM01PeWRnbi1Eem1LdERyOS1laDkySHlJMWcxWV9aMXdEbDZtRWgyRmx3aU1ab3d1dlBON3VOQUJnbjQ0UmY1cTVYZ3ZDeUVwTFJDc2NpYzAtVTZsUVprVV83ZGFhM2Vpa0NXMDJtaWhvby1OUzRVQXp3VUhYT2xnLVE?oc=5",
+   "date": "2026-07-02",
+   "img": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
   },
   {
    "cat": "campaign",
@@ -135,14 +143,6 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
    "date": "2026-04-08",
    "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
-  },
-  {
-   "cat": "media",
-   "source": "The Globe and Mail",
-   "title": "Tanker sails through Canada’s misunderstood ‘tanker ban’ area off B.C.’s north coast",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUFFemtFQmZ3OVNCYVUxSjBka3ZfTUFqakJlMkpCUGFPYWxhUmhiQnpNVnlFb3ZCaVJ1TGtTcmxZaDdMb3VDaFhYM0xmOG5acWRBNm1lNG94WF9CZjRReDVhSUdSWmhvVHg0d0VxVWU2THh5cFJiTjZ1dVdsbkZqNTdJXzR5djlwa0tOdVA1Y2hEeTU1MWV4UURFR3VhS2ZDYXcxczc3XzZfb0NhMzJoVlJMVEg?oc=5",
-   "date": "2026-03-28",
-   "img": "https://www.theglobeandmail.com/resizer/v2/IRS52IO7VBBYZOI47V4INDG5WQ.JPG?auth=2f4fbdcca97ed0de80cbdec57c3e18c5cc6cad187c068ba2c4c363066fc5b80c&width=1200&height=800&quality=80&smart=true"
   },
   {
    "cat": "campaign",
