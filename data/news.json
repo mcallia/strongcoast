@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-03T04:36:05.937Z",
+ "updated": "2026-09-03T11:18:39.997Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "The Northern Tanker Ban Held, So Ottawa is Fast-Tracking the Bitumen South Instead.",
+   "url": "https://strongcoast.org/the-northern-tanker-ban-held-so-ottawa-is-fast-tracking-the-bitumen-south-instead/",
+   "date": "2026-09-03"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -32,14 +39,6 @@
   },
   {
    "cat": "media",
-   "source": "Vanderhoof Omineca Express",
-   "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDB1VlQ1ZXhMa3dCVTlVbnd1NG1TS2NpMU05V2pRaVZPWjJNM19PdWhlWkhud1ZOaU4wMjlCM2NxSWlsMWZuV09IbzJpZUVqYUl5Y2RjbXFZY01mWWR3THFKM3hQcmxwME15Ui1yS3dCcUJ5d2dkSi05dC1HcFFVUGVTMlJPTkZ5QkJMMDQwTUZuU0NGeHEzZ184WmxObHp2VzRHV0pOZjhoR0t3QmlQVXF3ZVI?oc=5",
-   "date": "2026-07-30",
-   "img": "https://ominecaexpress.com/wp-content/uploads/sites/42/2026/07/ebywater.jpg?w=1024"
-  },
-  {
-   "cat": "media",
    "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
@@ -48,51 +47,30 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
-   "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
-   "date": "2026-07-29",
-   "img": "https://cheknews.ca/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-5.30.27-PM-scaled-e1785371571702.png"
+   "source": "Baird Maritime",
+   "title": "Canada and British Columbia agree to maintain northwest coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdk1aY2tLNGZIWVgwRGdteDYzQXYySnZUdU0wdl9wZ1JOWHFPREtkd0hTczY1d2FGT01jQlZ5Nm9saXFRb0RuSFBWeUJaSlBXUy1reTE1U1B4QndLRVR6WWJmYlFYLW1rWlBmd0hrSzFvRUthdzNHX3Y1SS1VTnlyUVJaUEhEelRHQk5WaERZZkpCaEF6U2xfTTdKblFsbWVjUEl0WUlFMFBBSWZVN25RV05DY3M1czlzal81ME9aTUrSAc4BQVVfeXFMUDF5bHZWSlREeXd0ZWVqRTNlMjVJWGtSSHh2V29rZEk5ZjdpbVE1VnRfYURLWlh3Y05WOGpHWUVfbUpoLU1feEQyY0NMYlA4OVVvRGVIQlYtRFN5cDZLTVU0X1AzUG14ZU1acGxuemwxRjIxUHNlVU14emFLVnkwX0o4Q1BzVXVFY1dXM3VuY0pmd1BQQ0pzZ1BQODg1M0JBcjZHRlVZUlhzSHpxdWk1TW1US1VHYWlyZE1Hd3U1RFhOX3RXSFNKYjBfX2JXa3c?oc=5",
+   "date": "2026-07-03",
+   "img": "https://media.assettype.com/bairdmaritime%2F2025-03-19%2Fxrvdu45f%2Fpexels-amar-30792662.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
   },
   {
    "cat": "media",
-   "source": "Yahoo! Finance Canada",
-   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVW5JQVJZRHZJOXhuWFowY0pnVVA1bkctRE1VX2lJNE9CYS05VUotVlhNc3Y3Z3VtZm9xTTdTeEVQVDl5ZS1pMm42akVhcnVkaTI1aWNQNHAtVWxudEt4NXVLWTQxMThqd3dNSDhycHpyYVAxa0xENUQ5d0ZwVlR0aXJtdGNsLVpp?oc=5",
-   "date": "2026-07-02"
+   "source": "India Today",
+   "title": "Canada backs Alberta-Pacific pipeline while keeping northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdG5sTloxa2F2eElVNEt5cGdLZE9QazNBdVBNZGUtVXY2LUlQVThWX01aa3RXeS12YWkxcVpRbUNCWDI3d1QzNEdMakVHVWxndFdqNmVXcXNJX3ZLZnBCNHlGdF9abHZ5a2FmTHFxVjcyN0lldlgtQ2dPR0JPWmlxWlM0RjdQVzJnWVhWTzdIemZialFab3diaU1KeVhuRjhGY01Tc3lucWZuVTgyZ1VYYUdNSzdBcG5jcGttM1BTZ1lqTzZo0gHKAUFVX3lxTFB4ZXZkNWF2bXBValdZSnM4dDVaUUNxSFNHRzA4Zzh2M1oyRzFEN2dtUXh1TUZuampBQWZSanRuRE00bWtuVkVzazliNng5blFxOS1USEdhTllhNVA3Uy1TS1ptRXJjREUzVVB2eWxWTDFGLVNOVGdxbjRMSUlzMUhtSU9KRW45enA4Q3FqM1lwNVA1aEJaN29GZ0JWUmU5bTEtVXMtSUNSV2xoVFlYUW1ZZU9ONDhaU0pFSi1pc1V4Wk44d2JOYnZEb3c?oc=5",
+   "date": "2026-07-03",
+   "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-1-original_18-sixteen_nine.png?VersionId=mEJABJhW0g2CoZetY8j3Bv8WwV2_wjPP"
   },
   {
    "cat": "media",
-   "source": "vancouver.citynews.ca",
-   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
-   "date": "2026-07-02",
-   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
-  },
-  {
-   "cat": "media",
-   "source": "EnergyNow",
-   "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
-   "source": "Washington Times",
+   "source": "washingtontimes.com",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
    "date": "2026-07-02"
   },
   {
    "cat": "media",
-   "source": "APTN News",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
-   "source": "wwltv.com",
+   "source": "WWLTV.com",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdTFMMVNwR245SlBSVG1BQkNqOGMtS3F2VVZYb2VvbDJuZUYxMmFTamw1MjVONDBUcmpyTG9wampRenVLeE4ycFJ4NERZZEM3Q0FhTWRkd2VlN183QXFSb0hEMVk3M0lXVmExNXJqR3NYalBoN2NCVWxTdG95UndXOVgyazJpSHItYWc3OXVucXZydEh1aXY1dGt1MXBPek80QzNIcE9DWjFndGZMZ0JXeUgtYVdvS1AtWUdZVHg5WWJTSm9GR05PNVpwMXJLM3BxQWJHZE9zcDJsWVpoc3FXTTZPY1lwelFINHFzTnJYTnFDTXh5VDJXalZkQmU1YjZXd2VzZ3lrdGJWcHVQMjVJUXEzOThFOWx1ZktZUQ?oc=5",
    "date": "2026-07-02"
@@ -107,7 +85,7 @@
   },
   {
    "cat": "media",
-   "source": "castanet.net",
+   "source": "Castanet",
    "title": "B.C.'s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVENZSFZjR2J2YUlYaGVFeGRxMW5SeWhUMU1Xbmt4cWdIbkxZcTZobXlUc0FtaF9ORGxDcHdmVEpDeFVReUlZcEE2cXVMTEtfSm5lQTR2Ui1yZ185STROZ1Q3U2E2aWVIeWVyemhXOW9yNVY2N3VlT1BZWERIQmpObVdfdFZUMFBiVUwxTl9lUzJDZzBabFNxajFzcVhta2FXZXBTckdMbzhHZnc?oc=5",
    "date": "2026-07-02",
@@ -151,6 +129,14 @@
    "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
   },
   {
+   "cat": "media",
+   "source": "The Nature Conservancy",
+   "title": "Sea of Possibility",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
+   "date": "2026-02-13",
+   "img": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/m/a/MAGONLY_ISSUE-1-2026_F_GREATBEAR_1_AspectRatio_4x3.jpg?crop=0%2C225%2C2000%2C1050&wid=1200&hei=630&scl=1.6666666666666667"
+  },
+  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "Life, Labour, and Loss on BC’s Cannery Coast",
@@ -179,11 +165,27 @@
    "date": "2025-12-17"
   },
   {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "The Story of Salmon in BC",
-   "url": "https://strongcoast.org/the-story-of-salmon-in-bc/",
-   "date": "2025-11-21"
+   "cat": "media",
+   "source": "Resource Works",
+   "title": "The trickster politics of the tanker ban are hiding a much bigger reckoning for B.C. |",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUZZS053T2lkaWdDSS1OSUdFSmJHR09NdmJpWTlZODlFUzdFRXJfaXVYdG56Q292NnJ0YkxnRzFsWThqQnlzQURRcUZOcmlyU0ttc3V0YWpTRWVBaE5qRXRmUkVLaUtTaWFYRV91TkwwR2NiM2JqV3A0ajQ4dU9pNmtKNS0yN3NBUlFBOXRfNkdLOU9md3pGLUs1bDF2ZUcxRlZVN0tLN2RfMHRsTS1R?oc=5",
+   "date": "2025-12-10",
+   "img": "https://resourceworks.com/wp-content/uploads/2025/12/CP144589-scaled.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "APTN News",
+   "title": "Chiefs vote to reject changes to B.C. coastal oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmdkWXdLQjdzbDNHOG51T2tPamdjZUx2b2x6Umh4N2tuQWh1ZzF4Ri1ORFRKQ2pjckJvN2NzNGcyLXlzTzNfU2ZOTUV3LWdZMndIWUE3S2dkZlpFOXZhV1lEUU9DcU1BOXZNbHl3V0l1UHVENEF1bXJoNWdCMDZCcEpBdWlCY3BkUS1uOHBkbWZXRlZoSE9yYWh5cTRoRTg?oc=5",
+   "date": "2025-12-02"
+  },
+  {
+   "cat": "media",
+   "source": "Corporate Knights",
+   "title": "Coastal First Nations blaze trail for conservation economy",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXYzdmwyaF9URVl4NC1Ibk1pazBrNEJLR0RCbF9GbFR2dzd2MG1KZTBmMjZtVmV3Zi13WDZ2U2MwdTUzS3BPQVBqaU9OSGlJZDZRTXVHcmxZT2NTVDJ5LXFMdFBiNGlWRUpza1BxTExmbC01SldIdVRZdVlHUGNZa2wyRFpsM2x6?oc=5",
+   "date": "2024-10-23",
+   "img": "https://corporateknights.com/wp-content/uploads/2024/10/Great-Bear-Sea-Photo-by-Emilee-Gilpin.jpg"
   }
  ]
 }
