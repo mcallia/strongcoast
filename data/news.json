@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T11:20:43.610Z",
+ "updated": "2026-09-04T16:25:22.668Z",
  "items": [
   {
    "cat": "campaign",
@@ -54,7 +54,7 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
+   "source": "cheknews.ca",
    "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
@@ -86,11 +86,18 @@
   },
   {
    "cat": "media",
-   "source": "constructconnect.com",
-   "title": "UPDATE: B.C.'s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUFaWTZ4X2ZRdEFUN2VuVkk5ZDRmNTJzVlpidGVvRHkzTlBPYktpTGRnWWJlM0phME1YM2cyUjlyNzRSZkdINEh1VXlfWE02Z0hrNURTQmx4amsyR192T21Ndi1UcG9zWkNfRjFXWHpsM1o3R1ZzUFhneFNJZU5EbXpoWGtJUjJFZ0NRd2JyTFN6cjBSV0lobEZnanBDeGpVc0YySG5NR2hqRXcwMzNSYUE2eVc3aW10VWV3emhZdS1nZw?oc=5",
+   "source": "CityNews Vancouver",
+   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
    "date": "2026-07-02",
-   "img": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2025/02/BreakingNews_TariffPauseFEbMainWEB.png"
+   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "Reuters",
+   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
+   "date": "2026-07-02"
   },
   {
    "cat": "media",
@@ -99,13 +106,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
    "date": "2026-07-02",
    "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
-  },
-  {
-   "cat": "media",
-   "source": "Washington Times",
-   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
-   "date": "2026-07-02"
   },
   {
    "cat": "media",
