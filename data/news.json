@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T21:13:41.907Z",
+ "updated": "2026-09-09T04:45:14.387Z",
  "items": [
   {
    "cat": "campaign",
@@ -39,11 +39,11 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
-   "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
+   "source": "CHEK News",
+   "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
-   "img": "https://news.gov.bc.ca/Content/Images/Gov/default-og-image-new.jpg"
+   "img": "https://cheknews.ca/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-5.30.27-PM-scaled-e1785371571702.png"
   },
   {
    "cat": "media",
@@ -51,14 +51,6 @@
    "title": "B.C. Premier David Eby Highlights North Coast Tanker Ban – July 29, 2026 - Headline Politics",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa1hjUUpDang3alZHVDRFZjh3WWNZZE5CTFNmcGhGeHdEZHJjV2xIZ0FXcjY4TS1QckxiZ0lvMDVacmFFdUVWS3ptdVR4Zm5Qa2xUWW1rMm5QdTYyZnZlOGpGX0pWRmEwX1QwdmJxcFJZekxVNDktT2J6bDFTVXRnWVN3TjFjbUN0TmFERnhLTHNpWWxvOXdrVTVjSDh0MlNvbnNaaXBlYTdWdDZES0hFMUR0MlNZWFM0Qm9JNzlXaWQ3UG81YVlNbkUyZmFnNzhWbFE3eXNGR2p1OHNKbzFVSnNSZ2p6RWJxSUE?oc=5",
    "date": "2026-07-29"
-  },
-  {
-   "cat": "media",
-   "source": "CHEK News",
-   "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
-   "date": "2026-07-29",
-   "img": "https://cheknews.ca/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-5.30.27-PM-scaled-e1785371571702.png"
   },
   {
    "cat": "media",
@@ -86,7 +78,7 @@
   },
   {
    "cat": "media",
-   "source": "vancouver.citynews.ca",
+   "source": "CityNews Vancouver",
    "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
    "date": "2026-07-02",
@@ -113,6 +105,14 @@
    "title": "Researchers and Coastal Nations Report Improved Salmon Returns After Farm Closures",
    "url": "https://strongcoast.org/researchers-and-coastal-nations-report-improved-salmon-returns-after-farm-closures/",
    "date": "2026-06-25"
+  },
+  {
+   "cat": "media",
+   "source": "BC Gov News",
+   "title": "Mia-yaltwa Ha’lidzogm hoon: A collaborative approach to marine protection announced for the Central Coast of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcFFTdHRLR0xpLUw0WGFxMTNuNEJXNEJnT29pT2lHMWs3NnczOGloNV9tWDZmTUFxR0hxZXA5U2Z5MUxJbDdaTy14SjJiN0wtNDZHZ1R3TkJwWmZ4aG95Uk8wWDdib2NKQTdiOHIyYUxLTGFCTFBQTE1vejBWYy1MS211VFpUXzdWSjJNOG85MDVKTHhFUUw5TlJJdDRzZkhkOE1DSHd4OUNZZ0ZyZDh0STloSFlwMnFVLTZ1aldhUWpFVUNmUTkyZm9mdw?oc=5",
+   "date": "2026-05-22",
+   "img": "https://news.gov.bc.ca/Content/Images/Gov/default-og-image-new.jpg"
   },
   {
    "cat": "coalition",
@@ -146,7 +146,7 @@
   },
   {
    "cat": "media",
-   "source": "theglobeandmail.com",
+   "source": "The Globe and Mail",
    "title": "Tanker sails through Canada’s misunderstood ‘tanker ban’ area off B.C.’s north coast",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUFFemtFQmZ3OVNCYVUxSjBka3ZfTUFqakJlMkpCUGFPYWxhUmhiQnpNVnlFb3ZCaVJ1TGtTcmxZaDdMb3VDaFhYM0xmOG5acWRBNm1lNG94WF9CZjRReDVhSUdSWmhvVHg0d0VxVWU2THh5cFJiTjZ1dVdsbkZqNTdJXzR5djlwa0tOdVA1Y2hEeTU1MWV4UURFR3VhS2ZDYXcxczc3XzZfb0NhMzJoVlJMVEg?oc=5",
    "date": "2026-03-28",
@@ -154,7 +154,7 @@
   },
   {
    "cat": "media",
-   "source": "The Nature Conservancy",
+   "source": "nature.org",
    "title": "Sea of Possibility",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
    "date": "2026-02-13",
