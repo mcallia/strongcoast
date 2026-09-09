@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T04:45:14.387Z",
+ "updated": "2026-09-09T11:26:03.811Z",
  "items": [
   {
    "cat": "campaign",
@@ -36,6 +36,14 @@
    "title": "The Century-Old Fish Holding the Coast Together — From a Mile Down to Your Dinner Plate",
    "url": "https://strongcoast.org/the-century-old-fish-holding-the-coast-together-from-a-mile-down-to-your-dinner-plate/",
    "date": "2026-08-12"
+  },
+  {
+   "cat": "media",
+   "source": "BC Gov News",
+   "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
+   "date": "2026-07-29",
+   "img": "https://news.gov.bc.ca/Content/Images/Gov/default-og-image-new.jpg"
   },
   {
    "cat": "media",
@@ -107,14 +115,6 @@
    "date": "2026-06-25"
   },
   {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "Mia-yaltwa Ha’lidzogm hoon: A collaborative approach to marine protection announced for the Central Coast of British Columbia",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcFFTdHRLR0xpLUw0WGFxMTNuNEJXNEJnT29pT2lHMWs3NnczOGloNV9tWDZmTUFxR0hxZXA5U2Z5MUxJbDdaTy14SjJiN0wtNDZHZ1R3TkJwWmZ4aG95Uk8wWDdib2NKQTdiOHIyYUxLTGFCTFBQTE1vejBWYy1MS211VFpUXzdWSjJNOG85MDVKTHhFUUw5TlJJdDRzZkhkOE1DSHd4OUNZZ0ZyZDh0STloSFlwMnFVLTZ1aldhUWpFVUNmUTkyZm9mdw?oc=5",
-   "date": "2026-05-22",
-   "img": "https://news.gov.bc.ca/Content/Images/Gov/default-og-image-new.jpg"
-  },
-  {
    "cat": "coalition",
    "source": "West Coast Now",
    "title": "Ottawa’s Renewed Salmon Funding Spawns Both Hope and Skepticism",
@@ -154,7 +154,7 @@
   },
   {
    "cat": "media",
-   "source": "nature.org",
+   "source": "The Nature Conservancy",
    "title": "Sea of Possibility",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
    "date": "2026-02-13",
