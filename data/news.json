@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-13T04:50:53.148Z",
+ "updated": "2026-09-13T11:55:40.795Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "September on the Campbell &#8211; Page 1",
+   "url": "https://strongcoast.org/september-on-the-campbell-page-1/",
+   "date": "2026-09-13"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -93,7 +100,7 @@
   },
   {
    "cat": "media",
-   "source": "reuters.com",
+   "source": "Reuters",
    "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
    "date": "2026-07-02"
@@ -178,13 +185,6 @@
    "title": "CANFISCO and BC's Individual Transferable Quota (ITQ) System",
    "url": "https://strongcoast.org/negative-impact-individual-transfer-quota-system/",
    "date": "2025-12-20"
-  },
-  {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "If You’ve Lived Here, You Know Why Tankers Are a Risk",
-   "url": "https://strongcoast.org/if-youve-lived-here-you-know-why-tankers-are-a-risk/",
-   "date": "2025-12-17"
   }
  ]
 }
