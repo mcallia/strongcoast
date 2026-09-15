@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T04:59:31.551Z",
+ "updated": "2026-09-15T11:46:45.364Z",
  "items": [
   {
    "cat": "campaign",
@@ -99,10 +99,11 @@
   },
   {
    "cat": "media",
-   "source": "AP News",
-   "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
-   "date": "2026-07-02"
+   "source": "constructconnect.com",
+   "title": "UPDATE: B.C.'s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUFaWTZ4X2ZRdEFUN2VuVkk5ZDRmNTJzVlpidGVvRHkzTlBPYktpTGRnWWJlM0phME1YM2cyUjlyNzRSZkdINEh1VXlfWE02Z0hrNURTQmx4amsyR192T21Ndi1UcG9zWkNfRjFXWHpsM1o3R1ZzUFhneFNJZU5EbXpoWGtJUjJFZ0NRd2JyTFN6cjBSV0lobEZnanBDeGpVc0YySG5NR2hqRXcwMzNSYUE2eVc3aW10VWV3emhZdS1nZw?oc=5",
+   "date": "2026-07-02",
+   "img": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2025/02/BreakingNews_TariffPauseFEbMainWEB.png"
   },
   {
    "cat": "media",
@@ -113,10 +114,26 @@
   },
   {
    "cat": "media",
-   "source": "energynow.ca",
+   "source": "EnergyNow",
    "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
    "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "Global News",
+   "title": "Ottawa and B.C. agree to maintain tanker ban. What’s in the new deal?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
+   "date": "2026-07-02",
+   "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
+  },
+  {
+   "cat": "media",
+   "source": "CityNews Vancouver",
+   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
+   "date": "2026-07-02",
+   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
   },
   {
    "cat": "campaign",
@@ -135,7 +152,7 @@
   },
   {
    "cat": "media",
-   "source": "dfo-mpo.gc.ca",
+   "source": "Pêches et Océans Canada",
    "title": "Great Bear Sea (Northern Shelf Bioregion)",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
    "date": "2026-04-09"
@@ -154,22 +171,6 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
    "date": "2026-04-08",
    "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
-  },
-  {
-   "cat": "media",
-   "source": "The Globe and Mail",
-   "title": "Tanker sails through Canada’s misunderstood ‘tanker ban’ area off B.C.’s north coast",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUFFemtFQmZ3OVNCYVUxSjBka3ZfTUFqakJlMkpCUGFPYWxhUmhiQnpNVnlFb3ZCaVJ1TGtTcmxZaDdMb3VDaFhYM0xmOG5acWRBNm1lNG94WF9CZjRReDVhSUdSWmhvVHg0d0VxVWU2THh5cFJiTjZ1dVdsbkZqNTdJXzR5djlwa0tOdVA1Y2hEeTU1MWV4UURFR3VhS2ZDYXcxczc3XzZfb0NhMzJoVlJMVEg?oc=5",
-   "date": "2026-03-28",
-   "img": "https://www.theglobeandmail.com/resizer/v2/IRS52IO7VBBYZOI47V4INDG5WQ.JPG?auth=2f4fbdcca97ed0de80cbdec57c3e18c5cc6cad187c068ba2c4c363066fc5b80c&width=1200&height=800&quality=80&smart=true"
-  },
-  {
-   "cat": "media",
-   "source": "The Nature Conservancy",
-   "title": "Sea of Possibility",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
-   "date": "2026-02-13",
-   "img": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/m/a/MAGONLY_ISSUE-1-2026_F_GREATBEAR_1_AspectRatio_4x3.jpg?crop=0%2C225%2C2000%2C1050&wid=1200&hei=630&scl=1.6666666666666667"
   },
   {
    "cat": "campaign",
