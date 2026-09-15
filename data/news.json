@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T17:02:07.206Z",
+ "updated": "2026-09-15T21:23:44.057Z",
  "items": [
   {
    "cat": "campaign",
@@ -7,6 +7,13 @@
    "title": "Exxon Valdez &#8211; 37 Years Later &#8211; Part Two",
    "url": "https://strongcoast.org/exxon-valdez-37-years-later-part-two/",
    "date": "2026-09-14"
+  },
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "September on the Campbell &#8211; Page 1",
+   "url": "https://strongcoast.org/september-on-the-campbell-page-1/",
+   "date": "2026-09-13"
   },
   {
    "cat": "campaign",
@@ -46,7 +53,7 @@
   },
   {
    "cat": "media",
-   "source": "news.gov.bc.ca",
+   "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
    "date": "2026-07-29",
@@ -170,13 +177,6 @@
    "title": "Mike Smith, The Last Salmon Troller of Ucluelet",
    "url": "https://strongcoast.org/mike-smith-the-last-salmon-troller-of-ucluelet/",
    "date": "2025-12-31"
-  },
-  {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "CANFISCO and BC's Individual Transferable Quota (ITQ) System",
-   "url": "https://strongcoast.org/negative-impact-individual-transfer-quota-system/",
-   "date": "2025-12-20"
   }
  ]
 }
