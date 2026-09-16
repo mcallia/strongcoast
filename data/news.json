@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T21:23:44.057Z",
+ "updated": "2026-09-16T04:52:01.555Z",
  "items": [
   {
    "cat": "campaign",
@@ -56,8 +56,7 @@
    "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
-   "date": "2026-07-29",
-   "img": "https://news.gov.bc.ca/Content/Images/Gov/default-og-image-new.jpg"
+   "date": "2026-07-29"
   },
   {
    "cat": "media",
@@ -68,7 +67,7 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
+   "source": "cheknews.ca",
    "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
@@ -89,13 +88,6 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
    "date": "2026-07-02",
    "img": "https://i.cbc.ca/ais/b5b5c2f9-66d7-4ae5-832a-f857524819aa,1776987426065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
-  },
-  {
-   "cat": "media",
-   "source": "AP News",
-   "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
-   "date": "2026-07-02"
   },
   {
    "cat": "media",
@@ -163,6 +155,14 @@
    "title": "The North Coast Tanker Ban: The Law Protecting BC’s Economy",
    "url": "https://strongcoast.org/north-coast-tanker-ban/",
    "date": "2026-04-08"
+  },
+  {
+   "cat": "media",
+   "source": "The University of British Columbia",
+   "title": "Bottom trawling catches thousands of fish species, including those most at-risk",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
+   "date": "2026-04-08",
+   "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
   },
   {
    "cat": "campaign",
