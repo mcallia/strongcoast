@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T01:02:29.923Z",
+ "updated": "2026-09-18T06:42:44.090Z",
  "items": [
   {
    "cat": "campaign",
@@ -53,10 +53,11 @@
   },
   {
    "cat": "media",
-   "source": "thenorthernview.com",
+   "source": "The Northern View",
    "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3Y2a3pTTk5PNzg2aURENW92RXZjNmpKbG5PS2luX0tkVExfc0RsanpOYmpEVkRZRHBQWFkwX1V5S2dYM2hQUGNrRE1USmlCVU5DNmxhVXVVZW9YM3pIU3QtdElnVVBHY25xU0NFUzlJTkUyaENkMlM3aWtraGt0SENRUGRtNlczbDltRWZ1OV9sWVZFYzE3dm1UNUdEX3phYl9SQzFUMGJGUmtybFNxeWxZaFkwUQ?oc=5",
-   "date": "2026-07-30"
+   "date": "2026-07-30",
+   "img": "https://thenorthernview.com/wp-content/uploads/sites/19/2026/07/ebywater.jpg?w=1024"
   },
   {
    "cat": "media",
@@ -77,7 +78,8 @@
    "source": "CBC",
    "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://i.cbc.ca/ais/b5b5c2f9-66d7-4ae5-832a-f857524819aa,1776987426065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
   },
   {
    "cat": "media",
@@ -95,7 +97,7 @@
   },
   {
    "cat": "media",
-   "source": "Washington Times",
+   "source": "washingtontimes.com",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
    "date": "2026-07-02"
@@ -112,28 +114,31 @@
    "source": "Global News",
    "title": "Ottawa and B.C. agree to maintain tanker ban. What’s in the new deal?",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
   },
   {
    "cat": "media",
-   "source": "aptnnews.ca",
+   "source": "APTN News",
    "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
    "date": "2026-07-02"
   },
   {
    "cat": "media",
-   "source": "vancouver.citynews.ca",
+   "source": "CityNews Vancouver",
    "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
   },
   {
    "cat": "media",
    "source": "TradingView",
    "title": "Canada's Carney says pact with British Columbia maintains north coast oil tanker ban",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZzBxWHNrV3pJMkZTakxlZWxEeE81YlNLUU5hOXh4VThrNmdUZDhxRUt5UFV0QjlwSkhXbGxjZHk2QnhnSFhKZmY4WnMtVUlDRHFDSDA0REZWQjZheGQySnFBNVZ1MU5lREp5QWFhYW5MM01PeWRnbi1Eem1LdERyOS1laDkySHlJMWcxWV9aMXdEbDZtRWgyRmx3aU1ab3d1dlBON3VOQUJnbjQ0UmY1cTVYZ3ZDeUVwTFJDc2NpYzAtVTZsUVprVV83ZGFhM2Vpa0NXMDJtaWhvby1OUzRVQXp3VUhYT2xnLVE?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
   },
   {
    "cat": "campaign",
