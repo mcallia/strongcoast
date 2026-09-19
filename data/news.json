@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-19T00:58:36.175Z",
+ "updated": "2026-09-19T06:39:22.258Z",
  "items": [
+  {
+   "cat": "media",
+   "source": "Parks Canada",
+   "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZFJ3NHQ3XzN1WE9mX3NNbWhZODQ0WjFMVWhyZlVLdHdCdERkQkNNMFVER1N6Z2NzNGdpaVZmajRDUXRmSUpSNVRVcXluc1hYdXBzVEw3ZW4xODFZTEhuaERjdmVKNHN5YUFNMDhSZG10ZG1wNjJZSVJnak96dw?oc=5",
+   "date": "2026-09-16",
+   "img": "https://pcweb2.azureedge.net/-/media/amnc-nmca/bc/central-coast/no-pc-rights--for-use-on-this-page-only/calvert-island-markus-thompson-thalassia-no-rights-1200-630.jpg?modified=20240119200838"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -90,7 +98,14 @@
   },
   {
    "cat": "media",
-   "source": "EnergyNow",
+   "source": "washingtontimes.com",
+   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "energynow.ca",
    "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
    "date": "2026-07-02"
@@ -126,14 +141,6 @@
    "img": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
   },
   {
-   "cat": "media",
-   "source": "The Independent",
-   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
-   "date": "2026-07-02",
-   "img": "https://static.independent.co.uk/2026/07/02/19/Canada_Carney_56498.jpg?width=1200&height=800&crop=1200:800"
-  },
-  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "Researchers and Coastal Nations Report Improved Salmon Returns After Farm Closures",
@@ -154,14 +161,6 @@
    "title": "The North Coast Tanker Ban: The Law Protecting BC’s Economy",
    "url": "https://strongcoast.org/north-coast-tanker-ban/",
    "date": "2026-04-08"
-  },
-  {
-   "cat": "media",
-   "source": "The University of British Columbia",
-   "title": "Bottom trawling catches thousands of fish species, including those most at-risk",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
-   "date": "2026-04-08",
-   "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
   },
   {
    "cat": "campaign",
