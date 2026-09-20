@@ -1,13 +1,12 @@
 {
- "updated": "2026-09-20T06:41:06.328Z",
+ "updated": "2026-09-20T12:35:25.106Z",
  "items": [
   {
    "cat": "media",
    "source": "Parks Canada",
    "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZFJ3NHQ3XzN1WE9mX3NNbWhZODQ0WjFMVWhyZlVLdHdCdERkQkNNMFVER1N6Z2NzNGdpaVZmajRDUXRmSUpSNVRVcXluc1hYdXBzVEw3ZW4xODFZTEhuaERjdmVKNHN5YUFNMDhSZG10ZG1wNjJZSVJnak96dw?oc=5",
-   "date": "2026-09-16",
-   "img": "https://pcweb2.azureedge.net/-/media/amnc-nmca/bc/central-coast/no-pc-rights--for-use-on-this-page-only/calvert-island-markus-thompson-thalassia-no-rights-1200-630.jpg?modified=20240119200838"
+   "date": "2026-09-16"
   },
   {
    "cat": "campaign",
@@ -68,7 +67,7 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
+   "source": "cheknews.ca",
    "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
@@ -104,6 +103,21 @@
    "date": "2026-07-02"
   },
   {
+   "cat": "media",
+   "source": "Global News",
+   "title": "Ottawa and B.C. agree to maintain tanker ban. What’s in the new deal?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
+   "date": "2026-07-02",
+   "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
+  },
+  {
+   "cat": "media",
+   "source": "APTN News",
+   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
+   "date": "2026-07-02"
+  },
+  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "Researchers and Coastal Nations Report Improved Salmon Returns After Farm Closures",
@@ -124,13 +138,6 @@
    "url": "https://westcoastnow.ca/2026/05/13/ottawas-renewed-salmon-funding-spawns-both-hope-and-skepticism/",
    "date": "2026-05-13",
    "img": "https://99.79.78.77/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
-  },
-  {
-   "cat": "media",
-   "source": "Pêches et Océans Canada",
-   "title": "Great Bear Sea (Northern Shelf Bioregion)",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
-   "date": "2026-04-09"
   },
   {
    "cat": "campaign",
