@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T12:39:29.520Z",
+ "updated": "2026-09-23T18:35:52.819Z",
  "items": [
   {
    "cat": "campaign",
@@ -68,14 +68,7 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
-   "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
-   "date": "2026-07-29"
-  },
-  {
-   "cat": "media",
-   "source": "CHEK News",
+   "source": "cheknews.ca",
    "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
@@ -126,33 +119,18 @@
    "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
   },
   {
-   "cat": "media",
-   "source": "APTN News",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
-   "source": "energynow.ca",
-   "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
-   "source": "TradingView",
-   "title": "Canada's Carney says pact with British Columbia maintains north coast oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZzBxWHNrV3pJMkZTakxlZWxEeE81YlNLUU5hOXh4VThrNmdUZDhxRUt5UFV0QjlwSkhXbGxjZHk2QnhnSFhKZmY4WnMtVUlDRHFDSDA0REZWQjZheGQySnFBNVZ1MU5lREp5QWFhYW5MM01PeWRnbi1Eem1LdERyOS1laDkySHlJMWcxWV9aMXdEbDZtRWgyRmx3aU1ab3d1dlBON3VOQUJnbjQ0UmY1cTVYZ3ZDeUVwTFJDc2NpYzAtVTZsUVprVV83ZGFhM2Vpa0NXMDJtaWhvby1OUzRVQXp3VUhYT2xnLVE?oc=5",
-   "date": "2026-07-02",
-   "img": "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
-  },
-  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "Researchers and Coastal Nations Report Improved Salmon Returns After Farm Closures",
    "url": "https://strongcoast.org/researchers-and-coastal-nations-report-improved-salmon-returns-after-farm-closures/",
    "date": "2026-06-25"
+  },
+  {
+   "cat": "media",
+   "source": "BC Gov News",
+   "title": "Mia-yaltwa Ha’lidzogm hoon: A collaborative approach to marine protection announced for the Central Coast of British Columbia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcFFTdHRLR0xpLUw0WGFxMTNuNEJXNEJnT29pT2lHMWs3NnczOGloNV9tWDZmTUFxR0hxZXA5U2Z5MUxJbDdaTy14SjJiN0wtNDZHZ1R3TkJwWmZ4aG95Uk8wWDdib2NKQTdiOHIyYUxLTGFCTFBQTE1vejBWYy1MS211VFpUXzdWSjJNOG85MDVKTHhFUUw5TlJJdDRzZkhkOE1DSHd4OUNZZ0ZyZDh0STloSFlwMnFVLTZ1aldhUWpFVUNmUTkyZm9mdw?oc=5",
+   "date": "2026-05-22"
   },
   {
    "cat": "coalition",
@@ -175,6 +153,30 @@
    "title": "The North Coast Tanker Ban: The Law Protecting BC’s Economy",
    "url": "https://strongcoast.org/north-coast-tanker-ban/",
    "date": "2026-04-08"
+  },
+  {
+   "cat": "media",
+   "source": "science.ubc.ca",
+   "title": "Bottom trawling catches thousands of fish species, including those most at-risk",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
+   "date": "2026-04-08",
+   "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
+  },
+  {
+   "cat": "media",
+   "source": "The Globe and Mail",
+   "title": "Tanker sails through Canada’s misunderstood ‘tanker ban’ area off B.C.’s north coast",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUFFemtFQmZ3OVNCYVUxSjBka3ZfTUFqakJlMkpCUGFPYWxhUmhiQnpNVnlFb3ZCaVJ1TGtTcmxZaDdMb3VDaFhYM0xmOG5acWRBNm1lNG94WF9CZjRReDVhSUdSWmhvVHg0d0VxVWU2THh5cFJiTjZ1dVdsbkZqNTdJXzR5djlwa0tOdVA1Y2hEeTU1MWV4UURFR3VhS2ZDYXcxczc3XzZfb0NhMzJoVlJMVEg?oc=5",
+   "date": "2026-03-28",
+   "img": "https://www.theglobeandmail.com/resizer/v2/IRS52IO7VBBYZOI47V4INDG5WQ.JPG?auth=2f4fbdcca97ed0de80cbdec57c3e18c5cc6cad187c068ba2c4c363066fc5b80c&width=1200&height=800&quality=80&smart=true"
+  },
+  {
+   "cat": "media",
+   "source": "The Nature Conservancy",
+   "title": "Sea of Possibility",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
+   "date": "2026-02-13",
+   "img": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/m/a/MAGONLY_ISSUE-1-2026_F_GREATBEAR_1_AspectRatio_4x3.jpg?crop=0%2C225%2C2000%2C1050&wid=1200&hei=630&scl=1.6666666666666667"
   },
   {
    "cat": "campaign",
