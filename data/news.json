@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T01:09:02.254Z",
+ "updated": "2026-09-30T06:47:00.868Z",
  "items": [
   {
    "cat": "campaign",
@@ -25,7 +25,7 @@
   },
   {
    "cat": "media",
-   "source": "Parks Canada",
+   "source": "parks.canada.ca",
    "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZFJ3NHQ3XzN1WE9mX3NNbWhZODQ0WjFMVWhyZlVLdHdCdERkQkNNMFVER1N6Z2NzNGdpaVZmajRDUXRmSUpSNVRVcXluc1hYdXBzVEw3ZW4xODFZTEhuaERjdmVKNHN5YUFNMDhSZG10ZG1wNjJZSVJnak96dw?oc=5",
    "date": "2026-09-16",
@@ -105,7 +105,7 @@
   },
   {
    "cat": "media",
-   "source": "AP News",
+   "source": "apnews.com",
    "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
    "date": "2026-07-02"
@@ -119,7 +119,7 @@
   },
   {
    "cat": "media",
-   "source": "aptnnews.ca",
+   "source": "APTN News",
    "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
    "date": "2026-07-02"
@@ -146,6 +146,14 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
    "date": "2026-07-02",
    "img": "https://static.independent.co.uk/2026/07/02/19/Canada_Carney_56498.jpg?width=1200&height=800&crop=1200:800"
+  },
+  {
+   "cat": "media",
+   "source": "CityNews Vancouver",
+   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
+   "date": "2026-07-02",
+   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
   },
   {
    "cat": "campaign",
