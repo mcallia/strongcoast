@@ -1,6 +1,21 @@
 {
- "updated": "2026-09-29T18:36:27.101Z",
+ "updated": "2026-09-30T01:09:02.254Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "Ottawa Nears Decision Point on Roberts Bank Very Large Crude Carrier Terminal and West Coast Pipeline",
+   "url": "https://strongcoast.org/ottawa-nears-decision-point-on-roberts-bank-very-large-crude-carrier-terminal-and-west-coast-pipeline/",
+   "date": "2026-09-29"
+  },
+  {
+   "cat": "coalition",
+   "source": "Coastal First Nations",
+   "title": "CFN Welcomes PM Carney’s Renewed and Expanded Investments in Ocean Protection",
+   "url": "https://coastalfirstnations.ca/resources/cfn-welcomes-pm-carneys-renewed-and-expanded-investments-in-ocean-protection/",
+   "date": "2026-09-29",
+   "img": "https://coastalfirstnations.ca/wp-content/uploads/2026/09/KXSA-MoonfishMedia-8-4-scaled.jpg"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -52,14 +67,6 @@
    "date": "2026-08-28"
   },
   {
-   "cat": "coalition",
-   "source": "Coastal First Nations",
-   "title": "Great Bear Sea PFP Recognized for Outstanding Indigenous Leadership and Long-term Impact",
-   "url": "https://coastalfirstnations.ca/resources/great-bear-sea-pfp-recognized-for-outstanding-indigenous-leadership-and-long-term-impact/",
-   "date": "2026-08-25",
-   "img": "https://coastalfirstnations.ca/wp-content/uploads/2026/08/IMG_8929-resized.jpg"
-  },
-  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "The Century-Old Fish Holding the Coast Together — From a Mile Down to Your Dinner Plate",
@@ -90,7 +97,7 @@
   },
   {
    "cat": "media",
-   "source": "cbc.ca",
+   "source": "CBC",
    "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
    "date": "2026-07-02",
@@ -98,7 +105,7 @@
   },
   {
    "cat": "media",
-   "source": "apnews.com",
+   "source": "AP News",
    "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
    "date": "2026-07-02"
@@ -112,7 +119,7 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
+   "source": "aptnnews.ca",
    "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
    "date": "2026-07-02"
@@ -134,7 +141,7 @@
   },
   {
    "cat": "media",
-   "source": "independent.co.uk",
+   "source": "The Independent",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
    "date": "2026-07-02",
@@ -168,13 +175,6 @@
    "title": "The North Coast Tanker Ban: The Law Protecting BC’s Economy",
    "url": "https://strongcoast.org/north-coast-tanker-ban/",
    "date": "2026-04-08"
-  },
-  {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "Life, Labour, and Loss on BC’s Cannery Coast",
-   "url": "https://strongcoast.org/life-labour-and-loss-on-bcs-cannery-coast/",
-   "date": "2026-01-22"
   }
  ]
 }
