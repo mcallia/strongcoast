@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-02T12:41:09.536Z",
+ "updated": "2026-10-02T18:34:25.626Z",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "West Coast Now",
+   "title": "Haida Gwaii Community Wants Court to Ban Man From Its Land",
+   "url": "https://westcoastnow.ca/2026/10/02/haida-gwaii-community-wants-court-to-ban-man-from-its-land/",
+   "date": "2026-10-02",
+   "img": "https://westcoastnow.ca/wp-content/uploads/2026/10/2025-prince-george-courthouse-20258880.jpegw960-300x225-1.jpeg"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -25,7 +33,7 @@
   },
   {
    "cat": "media",
-   "source": "parks.canada.ca",
+   "source": "Parks Canada",
    "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZFJ3NHQ3XzN1WE9mX3NNbWhZODQ0WjFMVWhyZlVLdHdCdERkQkNNMFVER1N6Z2NzNGdpaVZmajRDUXRmSUpSNVRVcXluc1hYdXBzVEw3ZW4xODFZTEhuaERjdmVKNHN5YUFNMDhSZG10ZG1wNjJZSVJnak96dw?oc=5",
    "date": "2026-09-16",
@@ -83,7 +91,7 @@
   {
    "cat": "media",
    "source": "CPAC",
-   "title": "B.C. Premier David Eby Highlights North Coast Tanker Ban – July 29, 2026 - Headline Politics",
+   "title": "B.C. Premier David Eby Highlights North Coast Tanker Ban – July 29, 2026",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa1hjUUpDang3alZHVDRFZjh3WWNZZE5CTFNmcGhGeHdEZHJjV2xIZ0FXcjY4TS1QckxiZ0lvMDVacmFFdUVWS3ptdVR4Zm5Qa2xUWW1rMm5QdTYyZnZlOGpGX0pWRmEwX1QwdmJxcFJZekxVNDktT2J6bDFTVXRnWVN3TjFjbUN0TmFERnhLTHNpWWxvOXdrVTVjSDh0MlNvbnNaaXBlYTdWdDZES0hFMUR0MlNZWFM0Qm9JNzlXaWQ3UG81YVlNbkUyZmFnNzhWbFE3eXNGR2p1OHNKbzFVSnNSZ2p6RWJxSUE?oc=5",
    "date": "2026-07-29"
   },
@@ -97,7 +105,7 @@
   },
   {
    "cat": "media",
-   "source": "cbc.ca",
+   "source": "CBC",
    "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
    "date": "2026-07-02",
@@ -141,7 +149,7 @@
   },
   {
    "cat": "media",
-   "source": "washingtontimes.com",
+   "source": "Washington Times",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JnT181QkFpVVZINmd3QXlrbjJiVmNZd1R1TlgzdjlzVHliU0h1aHJXT0p3SXo3ZWZLeHVSN2FFVHdXNThIaUZsUW5ILUoxWWNOSUtPaE5DQ2dmSHJFWUFDRnFyelZoaC02dk9IN1VOQk9KVy1ONndSR2xKMDB4eTgtdE9vT0NEa2NhZ1ZkMFNGQjFBUURMaVJuYUc4LUFWdGlEQjN4cVI0LVNJZ0M3Ry1uT1pNMk91?oc=5",
    "date": "2026-07-02"
@@ -162,16 +170,8 @@
    "date": "2026-06-25"
   },
   {
-   "cat": "coalition",
-   "source": "West Coast Now",
-   "title": "Ottawa’s Renewed Salmon Funding Spawns Both Hope and Skepticism",
-   "url": "https://westcoastnow.ca/2026/05/13/ottawas-renewed-salmon-funding-spawns-both-hope-and-skepticism/",
-   "date": "2026-05-13",
-   "img": "https://99.79.78.77/wp-content/uploads/2026/05/1568-gatescreekbcsockeyesalmon_03_barriekovish-1.webp"
-  },
-  {
    "cat": "media",
-   "source": "Pêches et Océans Canada",
+   "source": "dfo-mpo.gc.ca",
    "title": "Great Bear Sea (Northern Shelf Bioregion)",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
    "date": "2026-04-09"
