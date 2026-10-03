@@ -1,13 +1,20 @@
 {
- "updated": "2026-10-02T18:34:25.626Z",
+ "updated": "2026-10-03T01:02:09.763Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "For More Than 20 Years, Amanda Swinimer Has Made a Living Harvesting Wild Seaweed by Hand",
+   "url": "https://strongcoast.org/for-more-than-20-years-amanda-swinimer-has-made-a-living-harvesting-wild-seaweed-by-hand/",
+   "date": "2026-10-02"
+  },
   {
    "cat": "coalition",
    "source": "West Coast Now",
-   "title": "Haida Gwaii Community Wants Court to Ban Man From Its Land",
-   "url": "https://westcoastnow.ca/2026/10/02/haida-gwaii-community-wants-court-to-ban-man-from-its-land/",
+   "title": "BC, Feds Reach Deal on LNG That Keeps Tanker Ban in Place",
+   "url": "https://westcoastnow.ca/2026/10/02/bc-feds-reach-deal-on-lng-that-keeps-tanker-ban-in-place/",
    "date": "2026-10-02",
-   "img": "https://westcoastnow.ca/wp-content/uploads/2026/10/2025-prince-george-courthouse-20258880.jpegw960-300x225-1.jpeg"
+   "img": "https://westcoastnow.ca/wp-content/uploads/2026/10/tankerbaninplace-300x200-1.jpg"
   },
   {
    "cat": "campaign",
@@ -171,17 +178,10 @@
   },
   {
    "cat": "media",
-   "source": "dfo-mpo.gc.ca",
+   "source": "Pêches et Océans Canada",
    "title": "Great Bear Sea (Northern Shelf Bioregion)",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
    "date": "2026-04-09"
-  },
-  {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "The North Coast Tanker Ban: The Law Protecting BC’s Economy",
-   "url": "https://strongcoast.org/north-coast-tanker-ban/",
-   "date": "2026-04-08"
   }
  ]
 }
