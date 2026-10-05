@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T01:10:44.414Z",
+ "updated": "2026-10-05T07:02:56.646Z",
  "items": [
   {
    "cat": "campaign",
@@ -90,14 +90,6 @@
   },
   {
    "cat": "media",
-   "source": "The Northern View",
-   "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3Y2a3pTTk5PNzg2aURENW92RXZjNmpKbG5PS2luX0tkVExfc0RsanpOYmpEVkRZRHBQWFkwX1V5S2dYM2hQUGNrRE1USmlCVU5DNmxhVXVVZW9YM3pIU3QtdElnVVBHY25xU0NFUzlJTkUyaENkMlM3aWtraGt0SENRUGRtNlczbDltRWZ1OV9sWVZFYzE3dm1UNUdEX3phYl9SQzFUMGJGUmtybFNxeWxZaFkwUQ?oc=5",
-   "date": "2026-07-30",
-   "img": "https://thenorthernview.com/wp-content/uploads/sites/19/2026/07/ebywater.jpg?w=1024"
-  },
-  {
-   "cat": "media",
    "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
@@ -142,7 +134,7 @@
   },
   {
    "cat": "media",
-   "source": "aptnnews.ca",
+   "source": "APTN News",
    "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
    "date": "2026-07-02"
@@ -177,6 +169,14 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
    "date": "2026-07-02",
    "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "650 CKOM",
+   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTZjYWZSWU10bTdIS3BlMDVhZFZ4V1V0NGdxR3NiOGJMbHJRbkRRb3pSZmhjaWhOQm1FQXVPdDVEWDU1ZWg1SjFCU3lqYlhSak5RMVRWbmw1azdpdEROQWgtMTRheGxGV0owTzZJUnBzZE1rVTRvb2RmVkNoNEV5TXQ5MldfcGlKRXlDdjFBQ0w2bFZKcjYwVmM4b1hLRG5ULVE?oc=5",
+   "date": "2026-07-02",
+   "img": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/653/files/2026/07/ebycarney.png"
   },
   {
    "cat": "campaign",
