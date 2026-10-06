@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T01:04:36.219Z",
+ "updated": "2026-10-06T06:46:13.134Z",
  "items": [
   {
    "cat": "campaign",
@@ -47,7 +47,7 @@
   },
   {
    "cat": "media",
-   "source": "parks.canada.ca",
+   "source": "Parks Canada",
    "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZFJ3NHQ3XzN1WE9mX3NNbWhZODQ0WjFMVWhyZlVLdHdCdERkQkNNMFVER1N6Z2NzNGdpaVZmajRDUXRmSUpSNVRVcXluc1hYdXBzVEw3ZW4xODFZTEhuaERjdmVKNHN5YUFNMDhSZG10ZG1wNjJZSVJnak96dw?oc=5",
    "date": "2026-09-16",
@@ -97,6 +97,14 @@
   },
   {
    "cat": "media",
+   "source": "The Northern View",
+   "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3Y2a3pTTk5PNzg2aURENW92RXZjNmpKbG5PS2luX0tkVExfc0RsanpOYmpEVkRZRHBQWFkwX1V5S2dYM2hQUGNrRE1USmlCVU5DNmxhVXVVZW9YM3pIU3QtdElnVVBHY25xU0NFUzlJTkUyaENkMlM3aWtraGt0SENRUGRtNlczbDltRWZ1OV9sWVZFYzE3dm1UNUdEX3phYl9SQzFUMGJGUmtybFNxeWxZaFkwUQ?oc=5",
+   "date": "2026-07-30",
+   "img": "https://thenorthernview.com/wp-content/uploads/sites/19/2026/07/ebywater.jpg?w=1024"
+  },
+  {
+   "cat": "media",
    "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
@@ -111,7 +119,7 @@
   },
   {
    "cat": "media",
-   "source": "cheknews.ca",
+   "source": "CHEK News",
    "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
@@ -163,14 +171,6 @@
   },
   {
    "cat": "media",
-   "source": "The Independent",
-   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
-   "date": "2026-07-02",
-   "img": "https://static.independent.co.uk/2026/07/02/19/Canada_Carney_56498.jpg?width=1200&height=800&crop=1200:800"
-  },
-  {
-   "cat": "media",
    "source": "CityNews Vancouver",
    "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
@@ -179,11 +179,11 @@
   },
   {
    "cat": "media",
-   "source": "650 CKOM",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTZjYWZSWU10bTdIS3BlMDVhZFZ4V1V0NGdxR3NiOGJMbHJRbkRRb3pSZmhjaWhOQm1FQXVPdDVEWDU1ZWg1SjFCU3lqYlhSak5RMVRWbmw1azdpdEROQWgtMTRheGxGV0owTzZJUnBzZE1rVTRvb2RmVkNoNEV5TXQ5MldfcGlKRXlDdjFBQ0w2bFZKcjYwVmM4b1hLRG5ULVE?oc=5",
+   "source": "The Independent",
+   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
    "date": "2026-07-02",
-   "img": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/653/files/2026/07/ebycarney.png"
+   "img": "https://static.independent.co.uk/2026/07/02/19/Canada_Carney_56498.jpg?width=1200&height=800&crop=1200:800"
   }
  ]
 }
