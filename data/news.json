@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:46:13.134Z",
+ "updated": "2026-10-06T12:40:41.702Z",
  "items": [
   {
    "cat": "campaign",
@@ -97,11 +97,11 @@
   },
   {
    "cat": "media",
-   "source": "The Northern View",
+   "source": "Lakes District News",
    "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3Y2a3pTTk5PNzg2aURENW92RXZjNmpKbG5PS2luX0tkVExfc0RsanpOYmpEVkRZRHBQWFkwX1V5S2dYM2hQUGNrRE1USmlCVU5DNmxhVXVVZW9YM3pIU3QtdElnVVBHY25xU0NFUzlJTkUyaENkMlM3aWtraGt0SENRUGRtNlczbDltRWZ1OV9sWVZFYzE3dm1UNUdEX3phYl9SQzFUMGJGUmtybFNxeWxZaFkwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3MzRF9BdDlZSm5GcFVQWFR6TmNlVVl3MWJhWWo2WnVxZ1pua3h4WXVhWVZyYk4wNG9OV3Q0SDdDbEV2WExRTEl5cWgzYzUyMm5yZEZNVlRVNXRRM0ZQbS1lNnQ1ZjF4cHN5M05oV0hac3YzSm1lT2hOQVFmT29LSmw3YVBzRmZJZGloWld5alFDZk5MdHFqd3BVeFk4Nl9yU21od2ZnbHQ2WTlkVTlEZXpsQnVabHYzb2xfSDhIT0tQUTYz?oc=5",
    "date": "2026-07-30",
-   "img": "https://thenorthernview.com/wp-content/uploads/sites/19/2026/07/ebywater.jpg?w=1024"
+   "img": "https://burnslakelakesdistrictnews.com/wp-content/uploads/sites/39/2026/07/ebywater.jpg?w=1024"
   },
   {
    "cat": "media",
@@ -171,19 +171,19 @@
   },
   {
    "cat": "media",
-   "source": "CityNews Vancouver",
-   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
-   "date": "2026-07-02",
-   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
-  },
-  {
-   "cat": "media",
    "source": "The Independent",
    "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
    "date": "2026-07-02",
    "img": "https://static.independent.co.uk/2026/07/02/19/Canada_Carney_56498.jpg?width=1200&height=800&crop=1200:800"
+  },
+  {
+   "cat": "media",
+   "source": "CityNews Vancouver",
+   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
+   "date": "2026-07-02",
+   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
   }
  ]
 }
