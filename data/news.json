@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-05T18:36:33.767Z",
+ "updated": "2026-10-06T01:04:36.219Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "Not All Trawlers Are the Same: Why Scale, Gear and Ownership Matter",
+   "url": "https://strongcoast.org/not-all-trawlers-are-the-same-why-scale-gear-and-ownership-matter/",
+   "date": "2026-10-05"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -14,7 +21,7 @@
    "title": "BC, Feds Reach Deal on LNG That Keeps Tanker Ban in Place",
    "url": "https://westcoastnow.ca/2026/10/02/bc-feds-reach-deal-on-lng-that-keeps-tanker-ban-in-place/",
    "date": "2026-10-02",
-   "img": "https://westcoastnow.ca/wp-content/uploads/2026/10/tankerbaninplace-300x200-1.jpg"
+   "img": "https://smtp.westcoastnow.ca/wp-content/uploads/2026/10/tankerbaninplace-300x200-1.jpg"
   },
   {
    "cat": "campaign",
@@ -40,7 +47,7 @@
   },
   {
    "cat": "media",
-   "source": "Parks Canada",
+   "source": "parks.canada.ca",
    "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZFJ3NHQ3XzN1WE9mX3NNbWhZODQ0WjFMVWhyZlVLdHdCdERkQkNNMFVER1N6Z2NzNGdpaVZmajRDUXRmSUpSNVRVcXluc1hYdXBzVEw3ZW4xODFZTEhuaERjdmVKNHN5YUFNMDhSZG10ZG1wNjJZSVJnak96dw?oc=5",
    "date": "2026-09-16",
@@ -90,14 +97,6 @@
   },
   {
    "cat": "media",
-   "source": "The Northern View",
-   "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3Y2a3pTTk5PNzg2aURENW92RXZjNmpKbG5PS2luX0tkVExfc0RsanpOYmpEVkRZRHBQWFkwX1V5S2dYM2hQUGNrRE1USmlCVU5DNmxhVXVVZW9YM3pIU3QtdElnVVBHY25xU0NFUzlJTkUyaENkMlM3aWtraGt0SENRUGRtNlczbDltRWZ1OV9sWVZFYzE3dm1UNUdEX3phYl9SQzFUMGJGUmtybFNxeWxZaFkwUQ?oc=5",
-   "date": "2026-07-30",
-   "img": "https://thenorthernview.com/wp-content/uploads/sites/19/2026/07/ebywater.jpg?w=1024"
-  },
-  {
-   "cat": "media",
    "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
@@ -112,7 +111,7 @@
   },
   {
    "cat": "media",
-   "source": "CHEK News",
+   "source": "cheknews.ca",
    "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
    "date": "2026-07-29",
@@ -157,7 +156,7 @@
   },
   {
    "cat": "media",
-   "source": "energynow.ca",
+   "source": "EnergyNow",
    "title": "PIPELINE PARTNERS! Alberta and Ottawa Advance West Coast Pipeline Partnership as B.C. Secures Tanker Ban Protection",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0NrcXdQaXIyaGctU0tTdmF5MW80c1M4ZnN2SUM1OVdkdzg3ZnpwMXZEd00xTnBpbHFGWUlCN0VCNC0wTUJnV3VGbXB0YWpFVElyTHQ1SW9CeGo2a0d1V1Y3RTdWWjJldXlnMW9tWVoxUjhGdnNGdVUzRjJnUWY0bkRWR2hodTV6QU5yZ0ZaQmt1T2tvSDhNZk9hMHk1MDhuajJMZlNUbERtVmt1QUk5SThHQmRoVE5vTXdSenotTlVYZXM?oc=5",
    "date": "2026-07-02"
@@ -179,11 +178,12 @@
    "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
   },
   {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "Researchers and Coastal Nations Report Improved Salmon Returns After Farm Closures",
-   "url": "https://strongcoast.org/researchers-and-coastal-nations-report-improved-salmon-returns-after-farm-closures/",
-   "date": "2026-06-25"
+   "cat": "media",
+   "source": "650 CKOM",
+   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTZjYWZSWU10bTdIS3BlMDVhZFZ4V1V0NGdxR3NiOGJMbHJRbkRRb3pSZmhjaWhOQm1FQXVPdDVEWDU1ZWg1SjFCU3lqYlhSak5RMVRWbmw1azdpdEROQWgtMTRheGxGV0owTzZJUnBzZE1rVTRvb2RmVkNoNEV5TXQ5MldfcGlKRXlDdjFBQ0w2bFZKcjYwVmM4b1hLRG5ULVE?oc=5",
+   "date": "2026-07-02",
+   "img": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/653/files/2026/07/ebycarney.png"
   }
  ]
 }
