@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:40:41.702Z",
+ "updated": "2026-10-06T18:34:49.057Z",
  "items": [
   {
    "cat": "campaign",
@@ -97,14 +97,6 @@
   },
   {
    "cat": "media",
-   "source": "Lakes District News",
-   "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3MzRF9BdDlZSm5GcFVQWFR6TmNlVVl3MWJhWWo2WnVxZ1pua3h4WXVhWVZyYk4wNG9OV3Q0SDdDbEV2WExRTEl5cWgzYzUyMm5yZEZNVlRVNXRRM0ZQbS1lNnQ1ZjF4cHN5M05oV0hac3YzSm1lT2hOQVFmT29LSmw3YVBzRmZJZGloWld5alFDZk5MdHFqd3BVeFk4Nl9yU21od2ZnbHQ2WTlkVTlEZXpsQnVabHYzb2xfSDhIT0tQUTYz?oc=5",
-   "date": "2026-07-30",
-   "img": "https://burnslakelakesdistrictnews.com/wp-content/uploads/sites/39/2026/07/ebywater.jpg?w=1024"
-  },
-  {
-   "cat": "media",
    "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
@@ -184,6 +176,14 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
    "date": "2026-07-02",
    "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "650 CKOM",
+   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTZjYWZSWU10bTdIS3BlMDVhZFZ4V1V0NGdxR3NiOGJMbHJRbkRRb3pSZmhjaWhOQm1FQXVPdDVEWDU1ZWg1SjFCU3lqYlhSak5RMVRWbmw1azdpdEROQWgtMTRheGxGV0owTzZJUnBzZE1rVTRvb2RmVkNoNEV5TXQ5MldfcGlKRXlDdjFBQ0w2bFZKcjYwVmM4b1hLRG5ULVE?oc=5",
+   "date": "2026-07-02",
+   "img": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/653/files/2026/07/ebycarney.png"
   }
  ]
 }
