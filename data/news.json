@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-20T18:33:16.282Z",
+ "updated": "2026-10-21T00:57:49.858Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "Watch and Learn University: The Education of a Fisherman",
+   "url": "https://strongcoast.org/watch-and-learn-university-the-education-of-a-fisherman/",
+   "date": "2026-10-20"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -87,13 +94,6 @@
    "title": "Exxon Valdez &#8211; 37 Years Later &#8211; Part Two",
    "url": "https://strongcoast.org/exxon-valdez-37-years-later-part-two/",
    "date": "2026-09-14"
-  },
-  {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "The Northern Tanker Ban Held, So Ottawa is Fast-Tracking the Bitumen South Instead.",
-   "url": "https://strongcoast.org/the-northern-tanker-ban-held-so-ottawa-is-fast-tracking-the-bitumen-south-instead/",
-   "date": "2026-09-03"
   },
   {
    "cat": "media",
@@ -184,7 +184,8 @@
    "source": "650 CKOM",
    "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTZjYWZSWU10bTdIS3BlMDVhZFZ4V1V0NGdxR3NiOGJMbHJRbkRRb3pSZmhjaWhOQm1FQXVPdDVEWDU1ZWg1SjFCU3lqYlhSak5RMVRWbmw1azdpdEROQWgtMTRheGxGV0owTzZJUnBzZE1rVTRvb2RmVkNoNEV5TXQ5MldfcGlKRXlDdjFBQ0w2bFZKcjYwVmM4b1hLRG5ULVE?oc=5",
-   "date": "2026-07-02"
+   "date": "2026-07-02",
+   "img": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/653/files/2026/07/ebycarney.png"
   }
  ]
 }
