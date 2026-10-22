@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-21T18:32:49.360Z",
+ "updated": "2026-10-22T00:56:42.854Z",
  "items": [
+  {
+   "cat": "coalition",
+   "source": "West Coast Now",
+   "title": "Logging Took the Trees That Bears Called Home. The Haida Nation Is Building Them New Dens",
+   "url": "https://westcoastnow.ca/2026/10/21/haida-nation-bear-dens-haida-gwaii-logging/",
+   "date": "2026-10-21",
+   "img": "https://westcoastnow.ca/wp-content/uploads/2026/10/69d0349e9b810588e9bab7bea13fe4bd76a012e481c052a816f0f0af2bc54cc2.jpg"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -49,14 +57,6 @@
    "title": "For More Than 20 Years, Amanda Swinimer Has Made a Living Harvesting Wild Seaweed by Hand",
    "url": "https://strongcoast.org/for-more-than-20-years-amanda-swinimer-has-made-a-living-harvesting-wild-seaweed-by-hand/",
    "date": "2026-10-02"
-  },
-  {
-   "cat": "coalition",
-   "source": "West Coast Now",
-   "title": "BC, Feds Reach Deal on LNG That Keeps Tanker Ban in Place",
-   "url": "https://westcoastnow.ca/2026/10/02/bc-feds-reach-deal-on-lng-that-keeps-tanker-ban-in-place/",
-   "date": "2026-10-02",
-   "img": "https://smtp.westcoastnow.ca/wp-content/uploads/2026/10/tankerbaninplace-300x200-1.jpg"
   },
   {
    "cat": "campaign",
@@ -181,11 +181,11 @@
   },
   {
    "cat": "media",
-   "source": "650 CKOM",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTZjYWZSWU10bTdIS3BlMDVhZFZ4V1V0NGdxR3NiOGJMbHJRbkRRb3pSZmhjaWhOQm1FQXVPdDVEWDU1ZWg1SjFCU3lqYlhSak5RMVRWbmw1azdpdEROQWgtMTRheGxGV0owTzZJUnBzZE1rVTRvb2RmVkNoNEV5TXQ5MldfcGlKRXlDdjFBQ0w2bFZKcjYwVmM4b1hLRG5ULVE?oc=5",
-   "date": "2026-07-02",
-   "img": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/653/files/2026/07/ebycarney.png"
+   "source": "Coast Funds",
+   "title": "Mia-yaltwa Ha’lidzogm hoon Brings Ecosystem Protections, Collaborative Management to the Centre of the Great Bear Sea",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
+   "date": "2026-06-23",
+   "img": "https://coastfunds.ca/wp-content/uploads/2026/06/moonfishmedia-2396_web.jpg"
   }
  ]
 }
