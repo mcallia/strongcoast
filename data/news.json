@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-23T00:59:44.076Z",
+ "updated": "2026-10-23T06:42:58.757Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "Learning the Cork Line",
+   "url": "https://strongcoast.org/learning-the-cork-line/",
+   "date": "2026-10-23"
+  },
+  {
+   "cat": "media",
+   "source": "World Oil",
+   "title": "Strathcona pitches 250,000-bpd Prince Rupert crude terminal despite BC tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ19FUGg1MXVyMVVMZUJVTmc4c3p6aDAwWXBuUnZ0UEZqVk5zbWJtNVVpd3hxS0xUSVR1aUVqMk9FWFdzUk12TnU3c1lSb1Q4SWxJTWVTa19MbENhd2ZyTGNraUlKdWp5R3F1WW44WUpvTERPOWV6dHdiNjFOb0d1QlZJLWxkbGM4YkJpcUVQdGNlMWpLZjNudFJQQ3B5YVFNWXY2MW9CWWYwMXg0c3I2VmpPLUxSNFJzdk0xdU9PeGM?oc=5",
+   "date": "2026-10-22",
+   "img": "https://www.worldoil.com/media/tmflqdr1/canadaflagalexindigo-1.jpg"
+  },
   {
    "cat": "media",
    "source": "Bloomberg.com",
@@ -96,13 +111,6 @@
    "img": "https://pcweb2.azureedge.net/-/media/amnc-nmca/bc/central-coast/no-pc-rights--for-use-on-this-page-only/calvert-island-markus-thompson-thalassia-no-rights-1200-630.jpg?modified=20240119200838"
   },
   {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "Exxon Valdez &#8211; 37 Years Later &#8211; Part Two",
-   "url": "https://strongcoast.org/exxon-valdez-37-years-later-part-two/",
-   "date": "2026-09-14"
-  },
-  {
    "cat": "media",
    "source": "The Northern View",
    "title": "B.C. Premier reaffirms North Coast oil tanker ban during Prince Rupert visit",
@@ -150,10 +158,11 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
-   "date": "2026-07-02"
+   "source": "constructconnect.com",
+   "title": "UPDATE: B.C.'s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUFaWTZ4X2ZRdEFUN2VuVkk5ZDRmNTJzVlpidGVvRHkzTlBPYktpTGRnWWJlM0phME1YM2cyUjlyNzRSZkdINEh1VXlfWE02Z0hrNURTQmx4amsyR192T21Ndi1UcG9zWkNfRjFXWHpsM1o3R1ZzUFhneFNJZU5EbXpoWGtJUjJFZ0NRd2JyTFN6cjBSV0lobEZnanBDeGpVc0YySG5NR2hqRXcwMzNSYUE2eVc3aW10VWV3emhZdS1nZw?oc=5",
+   "date": "2026-07-02",
+   "img": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2025/02/BreakingNews_TariffPauseFEbMainWEB.png"
   },
   {
    "cat": "media",
@@ -170,14 +179,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
    "date": "2026-07-02",
    "img": "https://static.independent.co.uk/2026/07/02/19/Canada_Carney_56498.jpg?width=1200&height=800&crop=1200:800"
-  },
-  {
-   "cat": "media",
-   "source": "CityNews Vancouver",
-   "title": "Feds announce multi-billion-dollar energy deal with B.C., retain northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3F2dTd4dFdLWGVHMWxFRWJacXltTzVna2VFbE5tbEVCMUQxdXE1eW1wMVkwQ0pkcE83QlZ5SmZOVG9SNTl3LWU2NjNnY0VId0FkOTRjdVpEZVd1VThmS2ZpYklIOU9iV0JxZ01HVndSQllCaWxSd0g4QVR5WUdGb1pBN2w5bWN6UFY5cQ?oc=5",
-   "date": "2026-07-02",
-   "img": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/07/02/David-Eby-Mark-Carney.jpg"
   },
   {
    "cat": "media",
