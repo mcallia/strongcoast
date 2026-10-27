@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T12:40:48.872Z",
+ "updated": "2026-10-27T18:24:51.038Z",
  "items": [
   {
    "cat": "campaign",
@@ -158,18 +158,17 @@
   },
   {
    "cat": "media",
-   "source": "BC Gov News",
-   "title": "B.C. secures landmark agreement to power decades of jobs, prosperity, growth",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVGd1TlJVN3lPOXpvLWFwTlFWZGJ1ZHprR0FMUndWemV5dEk0eUZ0RFVZaEw2bGIyTUFZSTJmbTYzaFJBcm9fTllKRGZUSVJJdGo4NUpDUk82Xzlhb1RnZw?oc=5",
-   "date": "2026-07-02",
-   "img": "https://live.staticflickr.com/65535/55370533516_8dfa83d43a_b.jpg"
-  },
-  {
-   "cat": "media",
    "source": "Vancouver Sun",
    "title": "Ottawa announces $3 billion for Massey Tunnel replacement, while North Coast tanker ban remains in place",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc2pVYXZWaXhVeEtlSDFSNjNfY0pyNTJFcmpHVmRBbjZjS1B6OHVlVkRveTdEcDBXWlNEbFJ0ajRsQzVyYVh3N21HcklwV2g2cUNiTXhGdV9EVy1iN3dwR3dVeUV4d3RiUkVLRjdsUFNMQTNvd050bFk4UDhhdDhhM3Iwa0lHbnhlQkJHbklpZmp4bXpLUzhxWl91Vy1qZTMtQWlhVm5Jd1R6Y0pfY1FqdlhDc2JJY3Mtb1hsNUFONkl0YzN5NHlhX3hDNVhRbkc2amJzelNWdnRxTk5Dck9uY010WF9idkV3WUhSemZGVQ?oc=5",
    "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
+   "source": "Pêches et Océans Canada",
+   "title": "Great Bear Sea (Northern Shelf Bioregion)",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
+   "date": "2026-04-09"
   }
  ]
 }
