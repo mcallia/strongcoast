@@ -1,27 +1,34 @@
 {
- "updated": "2026-10-26T18:42:44.082Z",
+ "updated": "2026-10-27T01:00:29.163Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "James Lawson: Choosing a Life on the Water",
+   "url": "https://strongcoast.org/james-lawson-choosing-a-life-on-the-water/",
+   "date": "2026-10-26"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "Federal Conservatives renew push to end B.C. North Coast tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDJYM3k3SS0ySm1ZVTduVTdJOVhMcDlqcURiWU1YV0NSbWZCOVoyOXE1M1NLZkkydFc5NFk2X1RoekxiYXh5UzRpbzhOZzdxWEdybHR4S2dZMVlEZTJJY1JCUVh1c21ZMnc0VlZDZHRGTDhtazlwaXNzNTRtZUJmYlBHeXIybmlOckYyOURBeHVocFNnSm1hck9HVQ?oc=5",
+   "date": "2026-10-26",
+   "img": "https://i.cbc.ca/ais/1.7305729,1724728666000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C345%2C3300%2C1856%29%3BResize%3D620"
+  },
+  {
+   "cat": "media",
+   "source": "EnergyNow",
+   "title": "THE PITCH: Oil Firm Strathcona Resources Pitches Exemption to Canada’s Thorny BC Tanker Ban - Robert Tuttle",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdnV3ODVXRlN5S19fbXBVemhuaXJXNThVZkNmalhHZklGenRwWXNPWk05aDg5d0xHUlhrWVNpRFN5MWdScE5zLUMyYWZYVF8wLWNPQUhzRGxSbzhqRkZUQkw0V1I5NXJpaGUyNVhwaVZ4NVVPYkhwMmRfWlpvY1VNcVBzOGFISnpGNUs1emhSZDhmSldGWjNtVHBWb3JHRi1tcWdYSUVNc2ljVHprdVgydklsb1NnWTN2aXNvcm9HSUtxZzJDcGpSZ2NPVmgwQQ?oc=5",
+   "date": "2026-10-24"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "Learning the Cork Line",
    "url": "https://strongcoast.org/learning-the-cork-line/",
    "date": "2026-10-23"
-  },
-  {
-   "cat": "media",
-   "source": "World Oil",
-   "title": "Strathcona pitches 250,000-bpd Prince Rupert crude terminal despite BC tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ19FUGg1MXVyMVVMZUJVTmc4c3p6aDAwWXBuUnZ0UEZqVk5zbWJtNVVpd3hxS0xUSVR1aUVqMk9FWFdzUk12TnU3c1lSb1Q4SWxJTWVTa19MbENhd2ZyTGNraUlKdWp5R3F1WW44WUpvTERPOWV6dHdiNjFOb0d1QlZJLWxkbGM4YkJpcUVQdGNlMWpLZjNudFJQQ3B5YVFNWXY2MW9CWWYwMXg0c3I2VmpPLUxSNFJzdk0xdU9PeGM?oc=5",
-   "date": "2026-10-22",
-   "img": "https://www.worldoil.com/media/tmflqdr1/canadaflagalexindigo-1.jpg"
-  },
-  {
-   "cat": "media",
-   "source": "Bloomberg.com",
-   "title": "Oil Firm Pitches Exemption to Canada’s Thorny BC Tanker Ban",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ01Tb0xHWGpRdEU3TFpfbGVibjdWS2MzZzNDWmJQTV85N0VaampxT0ROMVB0ZERGVE53SW5qLWM5aHpuUkRoT1FTUTMzUmtVLW9nc1UxUUNuYTUwZU5uVzBtbE5wSXM0dDdRaXB1OHdoN0ppbzhvNHA0azZDTGtsd0ZOVVYtN09kOWRJTVlLMjV6a2U3QVhSQ1VkNEhkNl9DbHc3R1hXekZtNjQ3WlJNNUlaUEdZZw?oc=5",
-   "date": "2026-10-22"
   },
   {
    "cat": "coalition",
@@ -96,13 +103,6 @@
    "img": "https://coastalfirstnations.ca/wp-content/uploads/2026/09/KXSA-MoonfishMedia-8-4-scaled.jpg"
   },
   {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "September on the Campbell",
-   "url": "https://strongcoast.org/september-on-the-campbell/",
-   "date": "2026-09-22"
-  },
-  {
    "cat": "media",
    "source": "Parks Canada",
    "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
@@ -120,11 +120,18 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
-   "date": "2026-07-02",
-   "img": "https://i.cbc.ca/ais/b5b5c2f9-66d7-4ae5-832a-f857524819aa,1776987426065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
+   "source": "CPAC",
+   "title": "B.C. Premier David Eby Highlights North Coast Tanker Ban – July 29, 2026",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa1hjUUpDang3alZHVDRFZjh3WWNZZE5CTFNmcGhGeHdEZHJjV2xIZ0FXcjY4TS1QckxiZ0lvMDVacmFFdUVWS3ptdVR4Zm5Qa2xUWW1rMm5QdTYyZnZlOGpGX0pWRmEwX1QwdmJxcFJZekxVNDktT2J6bDFTVXRnWVN3TjFjbUN0TmFERnhLTHNpWWxvOXdrVTVjSDh0MlNvbnNaaXBlYTdWdDZES0hFMUR0MlNZWFM0Qm9JNzlXaWQ3UG81YVlNbkUyZmFnNzhWbFE3eXNGR2p1OHNKbzFVSnNSZ2p6RWJxSUE?oc=5",
+   "date": "2026-07-29"
+  },
+  {
+   "cat": "media",
+   "source": "CHEK News",
+   "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
+   "date": "2026-07-29",
+   "img": "https://cheknews.ca/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-5.30.27-PM-scaled-e1785371571702.png"
   },
   {
    "cat": "media",
@@ -142,49 +149,27 @@
   },
   {
    "cat": "media",
-   "source": "Global News",
-   "title": "Ottawa and B.C. agree to maintain tanker ban. What’s in the new deal?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
+   "source": "constructconnect.com",
+   "title": "UPDATE: B.C.'s multibillion-dollar MOU with feds retains northern tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUFaWTZ4X2ZRdEFUN2VuVkk5ZDRmNTJzVlpidGVvRHkzTlBPYktpTGRnWWJlM0phME1YM2cyUjlyNzRSZkdINEh1VXlfWE02Z0hrNURTQmx4amsyR192T21Ndi1UcG9zWkNfRjFXWHpsM1o3R1ZzUFhneFNJZU5EbXpoWGtJUjJFZ0NRd2JyTFN6cjBSV0lobEZnanBDeGpVc0YySG5NR2hqRXcwMzNSYUE2eVc3aW10VWV3emhZdS1nZw?oc=5",
    "date": "2026-07-02",
-   "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
-  },
-  {
-   "cat": "media",
-   "source": "The Independent",
-   "title": "Carney says northern British Columbia tanker ban will stay as Canada pursues Alberta pipeline",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnlXZE8yLXkwUmRRLUE5OUZ5TUhWc1FyM2pxTGszQmZBZXBHbjVoRnBtOEI5bWlKMzlURWU4clNNVXY1NzN5MkVPSERlR0lTX0FJcTBGZTlUVmx6MWZ1NHh3ZkxOSnNxUHFMZzlZSERvOUc5TWF1VnpabE5nazVkNEhqNGIzeXRJQ3NEZER2Tmx0T0hBX21EcEVyNFhHd0pIWmZ4bW93?oc=5",
-   "date": "2026-07-02",
-   "img": "https://static.independent.co.uk/2026/07/02/19/Canada_Carney_56498.jpg?width=1200&height=800&crop=1200:800"
-  },
-  {
-   "cat": "media",
-   "source": "BC Gov News",
-   "title": "B.C. secures landmark agreement to power decades of jobs, prosperity, growth",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yVGd1TlJVN3lPOXpvLWFwTlFWZGJ1ZHprR0FMUndWemV5dEk0eUZ0RFVZaEw2bGIyTUFZSTJmbTYzaFJBcm9fTllKRGZUSVJJdGo4NUpDUk82Xzlhb1RnZw?oc=5",
-   "date": "2026-07-02",
-   "img": "https://live.staticflickr.com/65535/55370533516_8dfa83d43a_b.jpg"
-  },
-  {
-   "cat": "media",
-   "source": "Vancouver Sun",
-   "title": "Ottawa announces $3 billion for Massey Tunnel replacement, while North Coast tanker ban remains in place",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc2pVYXZWaXhVeEtlSDFSNjNfY0pyNTJFcmpHVmRBbjZjS1B6OHVlVkRveTdEcDBXWlNEbFJ0ajRsQzVyYVh3N21HcklwV2g2cUNiTXhGdV9EVy1iN3dwR3dVeUV4d3RiUkVLRjdsUFNMQTNvd050bFk4UDhhdDhhM3Iwa0lHbnhlQkJHbklpZmp4bXpLUzhxWl91Vy1qZTMtQWlhVm5Jd1R6Y0pfY1FqdlhDc2JJY3Mtb1hsNUFONkl0YzN5NHlhX3hDNVhRbkc2amJzelNWdnRxTk5Dck9uY010WF9idkV3WUhSemZGVQ?oc=5",
-   "date": "2026-07-02"
+   "img": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2025/02/BreakingNews_TariffPauseFEbMainWEB.png"
   },
   {
    "cat": "media",
    "source": "CBC",
-   "title": "New protected marine reserve, larger than P.E.I., to be established on B.C.'s Central Coast",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPei1FbXVrQjY3WlA1N2k3czVaWDVCMFpVV2piT0JhRXhVdGxHM3BBMW1yU253NEc1UnB0alVnWV9uTm9qaVM5UEhxT2xxaXd1Q1ZOMVR5Y0haUFctQ0ZpcUNlWmU2RFZZOUo2VmQ4SktnVUZlendISFFhcWY0NWk0ay1jOThhZTlHNGxyVFJDRUQxLWl0VERoVlVYMnJTbTJWaUlOa09rNkZwUlpPN1F3ODlMaw?oc=5",
-   "date": "2026-05-22",
-   "img": "https://i.cbc.ca/ais/2abfcc6e-b732-4ce0-b432-d41c7b9a5350,1779482548121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C21%2C1400%2C787%29%3BResize%3D620"
+   "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
+   "date": "2026-07-02",
+   "img": "https://i.cbc.ca/ais/b5b5c2f9-66d7-4ae5-832a-f857524819aa,1776987426065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
   },
   {
    "cat": "media",
-   "source": "Pêches et Océans Canada",
-   "title": "Great Bear Sea (Northern Shelf Bioregion)",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
-   "date": "2026-04-09"
+   "source": "Coast Funds",
+   "title": "Mia-yaltwa Ha’lidzogm hoon Brings Ecosystem Protections, Collaborative Management to the Centre of the Great Bear Sea",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
+   "date": "2026-06-23",
+   "img": "https://coastfunds.ca/wp-content/uploads/2026/06/moonfishmedia-2396_web.jpg"
   }
  ]
 }
