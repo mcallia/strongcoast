@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:25:57.807Z",
+ "updated": "2026-10-30T00:46:28.106Z",
  "items": [
   {
    "cat": "coalition",
@@ -11,19 +11,19 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "B.C. North Coast tanker ban to remain in place after Liberals vote down Tory bill",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2xBYVp1NE5uMlptM2ZDN2ItY3pWZl9TNXpaOUJDRVJqOXhyRTVzOHUxTjhaRlhSVXdoN2g1NU5tZ3hiUDZFWnpkV1JZYURvQkExWHVqQW91Mk5Cbmt6Z2VBU2JXMWxVX3ZhQ0d4M2k3TXYybHRfSmNCbUF6NE1Sb2owdGJ2TUNTV0NmOF80ajJBQQ?oc=5",
-   "date": "2026-10-28",
-   "img": "https://i.cbc.ca/ais/e7ad7749-7032-4234-a597-7ab8f12b45fd,1793227462004/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C3169%2C1782%29%3BResize%3D620"
-  },
-  {
-   "cat": "media",
    "source": "CTV News",
    "title": "B.C.’s incoming premier doesn’t support tanker ban reversal pitched by Poilievre",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0JfSk9qenVYTkNpbW5ibFdNYjhJY0JtZVpjaTg0czB6aEVIV0RucGpSVzlyb2hsb1BTZmo2YnNIMG1NeVBjSFhJUHR0VWxCMDh5elpRYkZhRko5dnl6MVhIQV9CUXEtOXNmeWVnREhoX2NYNnhqdzJ4OWFwbWhJOG15YTVwaHJOd1JQUUtOWm1FalFDRUdqNFJvaXJRNnQ4azVPdWZUdlVfUmNDQUJwRlIxdXdIalpJQnc?oc=5",
    "date": "2026-10-28",
    "img": "https://www.ctvnews.ca/resizer/v2/HXXJQM73W6HNO2BTJ3EGVNTFCI.jpg?smart=true&auth=14392973351c06982f2adccf5d1d85e967b97c7e4d5ca0950d634bc3bc2c9752&width=1200&height=630"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. North Coast tanker ban to remain in place after Liberals vote down Tory bill",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2xBYVp1NE5uMlptM2ZDN2ItY3pWZl9TNXpaOUJDRVJqOXhyRTVzOHUxTjhaRlhSVXdoN2g1NU5tZ3hiUDZFWnpkV1JZYURvQkExWHVqQW91Mk5Cbmt6Z2VBU2JXMWxVX3ZhQ0d4M2k3TXYybHRfSmNCbUF6NE1Sb2owdGJ2TUNTV0NmOF80ajJBQQ?oc=5",
+   "date": "2026-10-28",
+   "img": "https://i.cbc.ca/ais/e7ad7749-7032-4234-a597-7ab8f12b45fd,1793227462004/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C3169%2C1782%29%3BResize%3D620"
   },
   {
    "cat": "campaign",
@@ -34,11 +34,11 @@
   },
   {
    "cat": "media",
-   "source": "Calgary Journal",
-   "title": "Federal Conservatives pitch bill that would end B.C.’s tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSS1VMFpLYXN4N0Z6RTY2TEtDXy1sRi15VXBVaHNwNFBtVHpJZzJ5U2NtTFVFUWxjQjlUNWhhX05WeDk3QjlJQ29vRTVnNjNNM19WWkpvOGU1VTFlSGhfUXlfa1ptT1JxQlpFMmwwWDlmSTA3a0E5TmV2R0tmdG81VG1oVnRTODZXT2liLWNtMXA3WHg1Q19VVkFGeGNwZGlfdVZpYQ?oc=5",
+   "source": "CBC",
+   "title": "Federal Conservatives renew push to end B.C. North Coast tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDJYM3k3SS0ySm1ZVTduVTdJOVhMcDlqcURiWU1YV0NSbWZCOVoyOXE1M1NLZkkydFc5NFk2X1RoekxiYXh5UzRpbzhOZzdxWEdybHR4S2dZMVlEZTJJY1JCUVh1c21ZMnc0VlZDZHRGTDhtazlwaXNzNTRtZUJmYlBHeXIybmlOckYyOURBeHVocFNnSm1hck9HVQ?oc=5",
    "date": "2026-10-26",
-   "img": "https://jetpack.com/redirect/?source=sigenerate&#038;query=t%3DeyJpbWciOiJodHRwczpcL1wvY2FsZ2FyeWpvdXJuYWwuY2FcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzEwXC81MDE0MmRiMi1lMzMxLTQwYzQtYjRiNi0wNjc3M2QwZWViMTktMTAyNHg2ODMuanBlZyIsInR4dCI6IkZlZGVyYWwgQ29uc2VydmF0aXZlcyBwaXRjaCBiaWxsIHRoYXQgd291bGQgZW5kIEIuQy4mIzgyMTc7cyB0YW5rZXIgYmFuIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjE4MzI4OTMzN30.yTanh1nenB4D4F3sClB0xtoDy_ejV4I8NsP3eob_bcwMQ"
+   "img": "https://i.cbc.ca/ais/1.7305729,1724728666000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C345%2C3300%2C1856%29%3BResize%3D620"
   },
   {
    "cat": "campaign",
