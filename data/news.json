@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-01T00:45:42.091Z",
+ "updated": "2026-11-01T06:26:35.380Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "The Fraser Estuary: No Net Loss",
+   "url": "https://strongcoast.org/the-fraser-estuary-no-net-loss/",
+   "date": "2026-11-01"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -105,13 +112,6 @@
    "date": "2026-10-05"
   },
   {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "For More Than 20 Years, Amanda Swinimer Has Made a Living Harvesting Wild Seaweed by Hand",
-   "url": "https://strongcoast.org/for-more-than-20-years-amanda-swinimer-has-made-a-living-harvesting-wild-seaweed-by-hand/",
-   "date": "2026-10-02"
-  },
-  {
    "cat": "media",
    "source": "Parks Canada",
    "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
@@ -136,18 +136,18 @@
   },
   {
    "cat": "media",
-   "source": "Reuters",
-   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
    "source": "Global News",
    "title": "Ottawa and B.C. agree to maintain tanker ban. What’s in the new deal?",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS3cxaUk2S1FlMlhTVHplTnNjRk1HclJfdE40Vkhxd1k3LUlGY0NwdkZvX0xUek55Y1ZJZGgydHZRRTNLV0M0U2EyQ2ZER3JOakc1WkU0NmwyaFZfajczWDBhRWs3TXdfcHlUTEVnTmE3QQ?oc=5",
    "date": "2026-07-02",
    "img": "https://globalnews.ca/wp-content/uploads/2026/07/BC-tanker-ban.jpg?quality=65&strip=all&w=720&h=379&crop=1"
+  },
+  {
+   "cat": "media",
+   "source": "Reuters",
+   "title": "Canada's Carney says pact with British Columbia maintains northwest coast oil tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnpWSFpvalBjSmYyWFd2cGNETE1FSFZUeEFuT0owVUdSQV9RcVVRRE9uUkM3QXRGczhyLVp4endBX2NHb1NvRmZhcldOd3M1bzc3SUV2WjhKNU8xaldmMmxGZnpyNW5sNk5RbHdFN3hTSDNUMlY0dDEzUFg5M0lCQlVxc1drT251UVdKSjRrX2ZweURlZmphLUExaHRwa1VYS202TXhMSHdJcF94S21jUDZIYU1qVG12dDU1c3JOTVdPSGRxR3AtZU1HSQ?oc=5",
+   "date": "2026-07-02"
   },
   {
    "cat": "media",
