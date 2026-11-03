@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:25:32.696Z",
+ "updated": "2026-11-03T18:21:33.047Z",
  "items": [
   {
    "cat": "campaign",
@@ -60,6 +60,13 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDJYM3k3SS0ySm1ZVTduVTdJOVhMcDlqcURiWU1YV0NSbWZCOVoyOXE1M1NLZkkydFc5NFk2X1RoekxiYXh5UzRpbzhOZzdxWEdybHR4S2dZMVlEZTJJY1JCUVh1c21ZMnc0VlZDZHRGTDhtazlwaXNzNTRtZUJmYlBHeXIybmlOckYyOURBeHVocFNnSm1hck9HVQ?oc=5",
    "date": "2026-10-26",
    "img": "https://i.cbc.ca/ais/1.7305729,1724728666000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C345%2C3300%2C1856%29%3BResize%3D620"
+  },
+  {
+   "cat": "media",
+   "source": "EnergyNow",
+   "title": "THE PITCH: Oil Firm Strathcona Resources Pitches Exemption to Canada’s Thorny BC Tanker Ban - Robert Tuttle",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdnV3ODVXRlN5S19fbXBVemhuaXJXNThVZkNmalhHZklGenRwWXNPWk05aDg5d0xHUlhrWVNpRFN5MWdScE5zLUMyYWZYVF8wLWNPQUhzRGxSbzhqRkZUQkw0V1I5NXJpaGUyNVhwaVZ4NVVPYkhwMmRfWlpvY1VNcVBzOGFISnpGNUs1emhSZDhmSldGWjNtVHBWb3JHRi1tcWdYSUVNc2ljVHprdVgydklsb1NnWTN2aXNvcm9HSUtxZzJDcGpSZ2NPVmgwQQ?oc=5",
+   "date": "2026-10-24"
   },
   {
    "cat": "campaign",
@@ -129,13 +136,6 @@
   },
   {
    "cat": "media",
-   "source": "AP News",
-   "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
    "source": "Coast Funds",
    "title": "Mia-yaltwa Ha’lidzogm hoon Brings Ecosystem Protections, Collaborative Management to the Centre of the Great Bear Sea",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
@@ -151,11 +151,10 @@
   },
   {
    "cat": "media",
-   "source": "The University of British Columbia",
-   "title": "Bottom trawling catches thousands of fish species, including those most at-risk",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
-   "date": "2026-04-08",
-   "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
+   "source": "Canadian Geographic",
+   "title": "Partners in protection",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSS1neXc0NkZOaWVtZWhSVXQydmwzWTEtazRycnIxcmh3T3ZfQkFISjFEM0dUTDFKUjdvVHRSRnE5UHdBOVhxc3dvdnlZRGhHNVMyU3JHSzBrQ0dBYXJmOU1YQXZ2OG41Y19zZC1MdmMwNDA4ZmRlRVpIM1lrbTN2QVZpZw?oc=5",
+   "date": "2026-03-31"
   },
   {
    "cat": "media",
