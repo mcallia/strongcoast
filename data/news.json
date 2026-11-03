@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:28:18.995Z",
+ "updated": "2026-11-03T12:25:32.696Z",
  "items": [
   {
    "cat": "campaign",
@@ -55,11 +55,11 @@
   },
   {
    "cat": "media",
-   "source": "Calgary Journal",
-   "title": "Federal Conservatives pitch bill that would end B.C.’s tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSS1VMFpLYXN4N0Z6RTY2TEtDXy1sRi15VXBVaHNwNFBtVHpJZzJ5U2NtTFVFUWxjQjlUNWhhX05WeDk3QjlJQ29vRTVnNjNNM19WWkpvOGU1VTFlSGhfUXlfa1ptT1JxQlpFMmwwWDlmSTA3a0E5TmV2R0tmdG81VG1oVnRTODZXT2liLWNtMXA3WHg1Q19VVkFGeGNwZGlfdVZpYQ?oc=5",
+   "source": "CBC",
+   "title": "Federal Conservatives renew push to end B.C. North Coast tanker ban",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDJYM3k3SS0ySm1ZVTduVTdJOVhMcDlqcURiWU1YV0NSbWZCOVoyOXE1M1NLZkkydFc5NFk2X1RoekxiYXh5UzRpbzhOZzdxWEdybHR4S2dZMVlEZTJJY1JCUVh1c21ZMnc0VlZDZHRGTDhtazlwaXNzNTRtZUJmYlBHeXIybmlOckYyOURBeHVocFNnSm1hck9HVQ?oc=5",
    "date": "2026-10-26",
-   "img": "https://jetpack.com/redirect/?source=sigenerate&#038;query=t%3DeyJpbWciOiJodHRwczpcL1wvY2FsZ2FyeWpvdXJuYWwuY2FcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzEwXC81MDE0MmRiMi1lMzMxLTQwYzQtYjRiNi0wNjc3M2QwZWViMTktMTAyNHg2ODMuanBlZyIsInR4dCI6IkZlZGVyYWwgQ29uc2VydmF0aXZlcyBwaXRjaCBiaWxsIHRoYXQgd291bGQgZW5kIEIuQy4mIzgyMTc7cyB0YW5rZXIgYmFuIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjE4MzI4OTMzN30.yTanh1nenB4D4F3sClB0xtoDy_ejV4I8NsP3eob_bcwMQ"
+   "img": "https://i.cbc.ca/ais/1.7305729,1724728666000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C345%2C3300%2C1856%29%3BResize%3D620"
   },
   {
    "cat": "campaign",
@@ -67,13 +67,6 @@
    "title": "Learning the Cork Line",
    "url": "https://strongcoast.org/learning-the-cork-line/",
    "date": "2026-10-23"
-  },
-  {
-   "cat": "media",
-   "source": "Bloomberg.com",
-   "title": "Oil Firm Pitches Exemption to Canada’s Thorny BC Tanker Ban",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ01Tb0xHWGpRdEU3TFpfbGVibjdWS2MzZzNDWmJQTV85N0VaampxT0ROMVB0ZERGVE53SW5qLWM5aHpuUkRoT1FTUTMzUmtVLW9nc1UxUUNuYTUwZU5uVzBtbE5wSXM0dDdRaXB1OHdoN0ppbzhvNHA0azZDTGtsd0ZOVVYtN09kOWRJTVlLMjV6a2U3QVhSQ1VkNEhkNl9DbHc3R1hXekZtNjQ3WlJNNUlaUEdZZw?oc=5",
-   "date": "2026-10-22"
   },
   {
    "cat": "coalition",
@@ -136,13 +129,6 @@
   },
   {
    "cat": "media",
-   "source": "CPAC",
-   "title": "B.C. Premier David Eby Highlights North Coast Tanker Ban – July 29, 2026",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa1hjUUpDang3alZHVDRFZjh3WWNZZE5CTFNmcGhGeHdEZHJjV2xIZ0FXcjY4TS1QckxiZ0lvMDVacmFFdUVWS3ptdVR4Zm5Qa2xUWW1rMm5QdTYyZnZlOGpGX0pWRmEwX1QwdmJxcFJZekxVNDktT2J6bDFTVXRnWVN3TjFjbUN0TmFERnhLTHNpWWxvOXdrVTVjSDh0MlNvbnNaaXBlYTdWdDZES0hFMUR0MlNZWFM0Qm9JNzlXaWQ3UG81YVlNbkUyZmFnNzhWbFE3eXNGR2p1OHNKbzFVSnNSZ2p6RWJxSUE?oc=5",
-   "date": "2026-07-29"
-  },
-  {
-   "cat": "media",
    "source": "AP News",
    "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
@@ -155,6 +141,29 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
    "date": "2026-06-23",
    "img": "https://coastfunds.ca/wp-content/uploads/2026/06/moonfishmedia-2396_web.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "Pêches et Océans Canada",
+   "title": "Great Bear Sea (Northern Shelf Bioregion)",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
+   "date": "2026-04-09"
+  },
+  {
+   "cat": "media",
+   "source": "The University of British Columbia",
+   "title": "Bottom trawling catches thousands of fish species, including those most at-risk",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
+   "date": "2026-04-08",
+   "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
+  },
+  {
+   "cat": "media",
+   "source": "The Nature Conservancy",
+   "title": "Sea of Possibility",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
+   "date": "2026-02-13",
+   "img": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/m/a/MAGONLY_ISSUE-1-2026_F_GREATBEAR_1_AspectRatio_4x3.jpg?crop=0%2C225%2C2000%2C1050&wid=1200&hei=630&scl=1.6666666666666667"
   }
  ]
 }
