@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-03T18:21:33.047Z",
+ "updated": "2026-11-04T00:37:53.662Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "Tsartlip among First Nations filing court challenges against Pacific Link Pipeline project",
+   "url": "https://strongcoast.org/tsartlip-among-first-nations-filing-court-challenges-against-pacific-link-pipeline-project/",
+   "date": "2026-11-03"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -112,13 +119,6 @@
    "date": "2026-10-15"
   },
   {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "LNG Canada to use Chinese steel on $33B expansion project in Kitimat, B.C.",
-   "url": "https://strongcoast.org/lng-canada-to-use-chinese-steel-on-33b-expansion-project-in-kitimat-b-c/",
-   "date": "2026-10-14"
-  },
-  {
    "cat": "media",
    "source": "Parks Canada",
    "title": "Central Coast of BC: Mia-yaltwa Ha’lidzogm hoon National Marine Conservation Area Reserve and Indigenous Protected and Conserved Area",
@@ -136,33 +136,25 @@
   },
   {
    "cat": "media",
+   "source": "CPAC",
+   "title": "B.C. Premier David Eby Highlights North Coast Tanker Ban – July 29, 2026",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa1hjUUpDang3alZHVDRFZjh3WWNZZE5CTFNmcGhGeHdEZHJjV2xIZ0FXcjY4TS1QckxiZ0lvMDVacmFFdUVWS3ptdVR4Zm5Qa2xUWW1rMm5QdTYyZnZlOGpGX0pWRmEwX1QwdmJxcFJZekxVNDktT2J6bDFTVXRnWVN3TjFjbUN0TmFERnhLTHNpWWxvOXdrVTVjSDh0MlNvbnNaaXBlYTdWdDZES0hFMUR0MlNZWFM0Qm9JNzlXaWQ3UG81YVlNbkUyZmFnNzhWbFE3eXNGR2p1OHNKbzFVSnNSZ2p6RWJxSUE?oc=5",
+   "date": "2026-07-29"
+  },
+  {
+   "cat": "media",
+   "source": "AP News",
+   "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
+   "date": "2026-07-02"
+  },
+  {
+   "cat": "media",
    "source": "Coast Funds",
    "title": "Mia-yaltwa Ha’lidzogm hoon Brings Ecosystem Protections, Collaborative Management to the Centre of the Great Bear Sea",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
    "date": "2026-06-23",
    "img": "https://coastfunds.ca/wp-content/uploads/2026/06/moonfishmedia-2396_web.jpg"
-  },
-  {
-   "cat": "media",
-   "source": "Pêches et Océans Canada",
-   "title": "Great Bear Sea (Northern Shelf Bioregion)",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
-   "date": "2026-04-09"
-  },
-  {
-   "cat": "media",
-   "source": "Canadian Geographic",
-   "title": "Partners in protection",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSS1neXc0NkZOaWVtZWhSVXQydmwzWTEtazRycnIxcmh3T3ZfQkFISjFEM0dUTDFKUjdvVHRSRnE5UHdBOVhxc3dvdnlZRGhHNVMyU3JHSzBrQ0dBYXJmOU1YQXZ2OG41Y19zZC1MdmMwNDA4ZmRlRVpIM1lrbTN2QVZpZw?oc=5",
-   "date": "2026-03-31"
-  },
-  {
-   "cat": "media",
-   "source": "The Nature Conservancy",
-   "title": "Sea of Possibility",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
-   "date": "2026-02-13",
-   "img": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/m/a/MAGONLY_ISSUE-1-2026_F_GREATBEAR_1_AspectRatio_4x3.jpg?crop=0%2C225%2C2000%2C1050&wid=1200&hei=630&scl=1.6666666666666667"
   }
  ]
 }
