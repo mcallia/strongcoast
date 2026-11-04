@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-04T06:29:19.662Z",
+ "updated": "2026-11-04T12:25:03.151Z",
  "items": [
+  {
+   "cat": "campaign",
+   "source": "Strong Coast",
+   "title": "Volunteers move thousands of migrating salmon by hand after DFO abandons project",
+   "url": "https://strongcoast.org/volunteers-move-thousands-of-migrating-salmon-by-hand-after-dfo-abandons-project/",
+   "date": "2026-11-04"
+  },
   {
    "cat": "campaign",
    "source": "Strong Coast",
@@ -39,19 +46,19 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "B.C. North Coast tanker ban to remain in place after Liberals vote down Tory bill",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2xBYVp1NE5uMlptM2ZDN2ItY3pWZl9TNXpaOUJDRVJqOXhyRTVzOHUxTjhaRlhSVXdoN2g1NU5tZ3hiUDZFWnpkV1JZYURvQkExWHVqQW91Mk5Cbmt6Z2VBU2JXMWxVX3ZhQ0d4M2k3TXYybHRfSmNCbUF6NE1Sb2owdGJ2TUNTV0NmOF80ajJBQQ?oc=5",
-   "date": "2026-10-28",
-   "img": "https://i.cbc.ca/ais/e7ad7749-7032-4234-a597-7ab8f12b45fd,1793227462004/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C3169%2C1782%29%3BResize%3D620"
-  },
-  {
-   "cat": "media",
    "source": "CTV News",
    "title": "B.C.’s incoming premier doesn’t support tanker ban reversal pitched by Poilievre",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0JfSk9qenVYTkNpbW5ibFdNYjhJY0JtZVpjaTg0czB6aEVIV0RucGpSVzlyb2hsb1BTZmo2YnNIMG1NeVBjSFhJUHR0VWxCMDh5elpRYkZhRko5dnl6MVhIQV9CUXEtOXNmeWVnREhoX2NYNnhqdzJ4OWFwbWhJOG15YTVwaHJOd1JQUUtOWm1FalFDRUdqNFJvaXJRNnQ4azVPdWZUdlVfUmNDQUJwRlIxdXdIalpJQnc?oc=5",
    "date": "2026-10-28",
    "img": "https://www.ctvnews.ca/resizer/v2/HXXJQM73W6HNO2BTJ3EGVNTFCI.jpg?smart=true&auth=14392973351c06982f2adccf5d1d85e967b97c7e4d5ca0950d634bc3bc2c9752&width=1200&height=630"
+  },
+  {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. North Coast tanker ban to remain in place after Liberals vote down Tory bill",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2xBYVp1NE5uMlptM2ZDN2ItY3pWZl9TNXpaOUJDRVJqOXhyRTVzOHUxTjhaRlhSVXdoN2g1NU5tZ3hiUDZFWnpkV1JZYURvQkExWHVqQW91Mk5Cbmt6Z2VBU2JXMWxVX3ZhQ0d4M2k3TXYybHRfSmNCbUF6NE1Sb2owdGJ2TUNTV0NmOF80ajJBQQ?oc=5",
+   "date": "2026-10-28",
+   "img": "https://i.cbc.ca/ais/e7ad7749-7032-4234-a597-7ab8f12b45fd,1793227462004/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C3169%2C1782%29%3BResize%3D620"
   },
   {
    "cat": "campaign",
@@ -103,13 +110,6 @@
    "title": "Trawling vs. Trolling: A Nuanced Look at Two Very Different Fisheries",
    "url": "https://strongcoast.org/trawling-vs-trolling-a-nuanced-look-at-two-very-different-fisheries/",
    "date": "2026-10-16"
-  },
-  {
-   "cat": "campaign",
-   "source": "Strong Coast",
-   "title": "The Whale the Inside People Knew",
-   "url": "https://strongcoast.org/the-whale-the-inside-people-knew/",
-   "date": "2026-10-15"
   },
   {
    "cat": "media",
