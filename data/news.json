@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:37:51.827Z",
+ "updated": "2026-11-10T06:27:55.464Z",
  "items": [
   {
    "cat": "campaign",
@@ -51,14 +51,6 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2xBYVp1NE5uMlptM2ZDN2ItY3pWZl9TNXpaOUJDRVJqOXhyRTVzOHUxTjhaRlhSVXdoN2g1NU5tZ3hiUDZFWnpkV1JZYURvQkExWHVqQW91Mk5Cbmt6Z2VBU2JXMWxVX3ZhQ0d4M2k3TXYybHRfSmNCbUF6NE1Sb2owdGJ2TUNTV0NmOF80ajJBQQ?oc=5",
    "date": "2026-10-28",
    "img": "https://i.cbc.ca/ais/e7ad7749-7032-4234-a597-7ab8f12b45fd,1793227462004/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C3169%2C1782%29%3BResize%3D620"
-  },
-  {
-   "cat": "media",
-   "source": "CTV News",
-   "title": "B.C.’s incoming premier doesn’t support tanker ban reversal pitched by Poilievre",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0JfSk9qenVYTkNpbW5ibFdNYjhJY0JtZVpjaTg0czB6aEVIV0RucGpSVzlyb2hsb1BTZmo2YnNIMG1NeVBjSFhJUHR0VWxCMDh5elpRYkZhRko5dnl6MVhIQV9CUXEtOXNmeWVnREhoX2NYNnhqdzJ4OWFwbWhJOG15YTVwaHJOd1JQUUtOWm1FalFDRUdqNFJvaXJRNnQ4azVPdWZUdlVfUmNDQUJwRlIxdXdIalpJQnc?oc=5",
-   "date": "2026-10-27",
-   "img": "https://www.ctvnews.ca/resizer/v2/HXXJQM73W6HNO2BTJ3EGVNTFCI.jpg?smart=true&auth=14392973351c06982f2adccf5d1d85e967b97c7e4d5ca0950d634bc3bc2c9752&width=1200&height=630"
   },
   {
    "cat": "campaign",
@@ -187,6 +179,13 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
    "date": "2026-06-23",
    "img": "https://coastfunds.ca/wp-content/uploads/2026/06/moonfishmedia-2396_web.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "Pêches et Océans Canada",
+   "title": "Great Bear Sea (Northern Shelf Bioregion)",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
+   "date": "2026-04-09"
   }
  ]
 }
