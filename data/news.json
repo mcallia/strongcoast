@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T06:29:50.984Z",
+ "updated": "2026-11-17T12:26:02.468Z",
  "items": [
   {
    "cat": "campaign",
@@ -124,7 +124,8 @@
    "source": "BC Gov News",
    "title": "Premier, coastal First Nations celebrate protections for North Coast economy, environment",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNdUdWNjdzdmhhckN3UmpLWmFyV2NocXdUSVFhRnBiZ2NaU1g2SklaZ0x5NDBPNUhMZFJ5cWZrZG83V0d5NV9NamdVUWdXdEswRjV3bVFIc1BoaWFkR3U5MA?oc=5",
-   "date": "2026-07-29"
+   "date": "2026-07-29",
+   "img": "https://news.gov.bc.ca/Content/Images/Gov/default-og-image-new.jpg"
   },
   {
    "cat": "media",
@@ -169,7 +170,8 @@
    "source": "Coast Funds",
    "title": "Mia-yaltwa Ha’lidzogm hoon Brings Ecosystem Protections, Collaborative Management to the Centre of the Great Bear Sea",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
-   "date": "2026-06-23"
+   "date": "2026-06-23",
+   "img": "https://coastfunds.ca/wp-content/uploads/2026/06/moonfishmedia-2396_web.jpg"
   },
   {
    "cat": "media",
