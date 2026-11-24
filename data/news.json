@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:30:12.192Z",
+ "updated": "2026-11-24T12:26:50.119Z",
  "items": [
   {
    "cat": "campaign",
@@ -120,13 +120,6 @@
   },
   {
    "cat": "media",
-   "source": "APTN News",
-   "title": "B.C.’s multibillion-dollar MOU with feds retains northern tanker ban",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1tMk90ajlRTUpfOE5mQUJKazl4UGozLXhPSWFUS21OYnlrNjJ4SEdCMmJOSkd5ck5NbzNodUhtMEt0Qnp3a3RwWXlTcHZIZkVCYk5LN216V0tsVk8yM0tJRjZWalVrd0M4SGtsRmNqRzg5emM1U1BOel9Sb3BGVXpxUU5FTmhzTFE2TFBSdmoyWTBkNzFxa0tBdzZuLWZ1OUREeHBQdDRJdw?oc=5",
-   "date": "2026-07-02"
-  },
-  {
-   "cat": "media",
    "source": "AP News",
    "title": "Canada advances Alberta pipeline to Pacific Coast to expand oil exports beyond the US",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXZHUGpMQ2FTRDhycnBEbWNWc1Zic0NKeWQ5Um5QUWEzR2lBckZZWjhOdV9pc3FaNno3elFXS2kzQzBGTHJLc2lUNDlmbDI4LVhqdVJVUGZBWWFtTGRjNUZVYXhOZkgyOTN5V09DeDFyV3ZHeC1McVFpemVhM0VXVnN3cWVqbDd2d0ZWZTdOM21aUEVvOXUxcllfYUlCSHQ0V3prTV93?oc=5",
@@ -139,6 +132,13 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
    "date": "2026-06-23",
    "img": "https://coastfunds.ca/wp-content/uploads/2026/06/moonfishmedia-2396_web.jpg"
+  },
+  {
+   "cat": "media",
+   "source": "Pêches et Océans Canada",
+   "title": "Great Bear Sea (Northern Shelf Bioregion)",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
+   "date": "2026-04-09"
   },
   {
    "cat": "media",
