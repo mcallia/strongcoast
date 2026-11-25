@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:22:21.588Z",
+ "updated": "2026-11-25T00:40:35.287Z",
  "items": [
   {
    "cat": "campaign",
@@ -59,6 +59,22 @@
    "date": "2026-10-31"
   },
   {
+   "cat": "media",
+   "source": "CBC",
+   "title": "B.C. North Coast tanker ban to remain in place after Liberals vote down Tory bill",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2xBYVp1NE5uMlptM2ZDN2ItY3pWZl9TNXpaOUJDRVJqOXhyRTVzOHUxTjhaRlhSVXdoN2g1NU5tZ3hiUDZFWnpkV1JZYURvQkExWHVqQW91Mk5Cbmt6Z2VBU2JXMWxVX3ZhQ0d4M2k3TXYybHRfSmNCbUF6NE1Sb2owdGJ2TUNTV0NmOF80ajJBQQ?oc=5",
+   "date": "2026-10-28",
+   "img": "https://i.cbc.ca/ais/e7ad7749-7032-4234-a597-7ab8f12b45fd,1793227462004/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C3169%2C1782%29%3BResize%3D620"
+  },
+  {
+   "cat": "media",
+   "source": "CTV News",
+   "title": "B.C.’s incoming premier doesn’t support tanker ban reversal pitched by Poilievre",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0JfSk9qenVYTkNpbW5ibFdNYjhJY0JtZVpjaTg0czB6aEVIV0RucGpSVzlyb2hsb1BTZmo2YnNIMG1NeVBjSFhJUHR0VWxCMDh5elpRYkZhRko5dnl6MVhIQV9CUXEtOXNmeWVnREhoX2NYNnhqdzJ4OWFwbWhJOG15YTVwaHJOd1JQUUtOWm1FalFDRUdqNFJvaXJRNnQ4azVPdWZUdlVfUmNDQUJwRlIxdXdIalpJQnc?oc=5",
+   "date": "2026-10-27",
+   "img": "https://www.ctvnews.ca/resizer/v2/HXXJQM73W6HNO2BTJ3EGVNTFCI.jpg?smart=true&auth=14392973351c06982f2adccf5d1d85e967b97c7e4d5ca0950d634bc3bc2c9752&width=1200&height=630"
+  },
+  {
    "cat": "campaign",
    "source": "Strong Coast",
    "title": "James Lawson: Choosing a Life on the Water",
@@ -72,6 +88,13 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSS1VMFpLYXN4N0Z6RTY2TEtDXy1sRi15VXBVaHNwNFBtVHpJZzJ5U2NtTFVFUWxjQjlUNWhhX05WeDk3QjlJQ29vRTVnNjNNM19WWkpvOGU1VTFlSGhfUXlfa1ptT1JxQlpFMmwwWDlmSTA3a0E5TmV2R0tmdG81VG1oVnRTODZXT2liLWNtMXA3WHg1Q19VVkFGeGNwZGlfdVZpYQ?oc=5",
    "date": "2026-10-26",
    "img": "https://jetpack.com/redirect/?source=sigenerate&#038;query=t%3DeyJpbWciOiJodHRwczpcL1wvY2FsZ2FyeWpvdXJuYWwuY2FcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjZcLzEwXC81MDE0MmRiMi1lMzMxLTQwYzQtYjRiNi0wNjc3M2QwZWViMTktMTAyNHg2ODMuanBlZyIsInR4dCI6IkZlZGVyYWwgQ29uc2VydmF0aXZlcyBwaXRjaCBiaWxsIHRoYXQgd291bGQgZW5kIEIuQy4mIzgyMTc7cyB0YW5rZXIgYmFuIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjE4MzI4OTMzN30.yTanh1nenB4D4F3sClB0xtoDy_ejV4I8NsP3eob_bcwMQ"
+  },
+  {
+   "cat": "media",
+   "source": "EnergyNow",
+   "title": "THE PITCH: Oil Firm Strathcona Resources Pitches Exemption to Canada’s Thorny BC Tanker Ban - Robert Tuttle",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdnV3ODVXRlN5S19fbXBVemhuaXJXNThVZkNmalhHZklGenRwWXNPWk05aDg5d0xHUlhrWVNpRFN5MWdScE5zLUMyYWZYVF8wLWNPQUhzRGxSbzhqRkZUQkw0V1I5NXJpaGUyNVhwaVZ4NVVPYkhwMmRfWlpvY1VNcVBzOGFISnpGNUs1emhSZDhmSldGWjNtVHBWb3JHRi1tcWdYSUVNc2ljVHprdVgydklsb1NnWTN2aXNvcm9HSUtxZzJDcGpSZ2NPVmgwQQ?oc=5",
+   "date": "2026-10-24"
   },
   {
    "cat": "campaign",
@@ -113,11 +136,11 @@
   },
   {
    "cat": "media",
-   "source": "CBC",
-   "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNpRFVna2J1VHc4bG5uTzZGWFlhd2haT2ozM3R4cTczb1lJajg2dVdUdlJnUWdXQXF2QUtjLWdTV3VLbFlJV3FrRWtWVWZRVWtBaFB3UWlpbV8ycE9UdHczd3IybVFKcW5WUllyWHh0RDhGZmZBakJTZVpBeHlaQ3VhbnJOb2Q3Y3FBR1lEaFBCRXdCVUtGLXVhUkMtLVhyVU9TMFpXREgtYnRkVm9nVWsyRU4?oc=5",
-   "date": "2026-07-02",
-   "img": "https://i.cbc.ca/ais/b5b5c2f9-66d7-4ae5-832a-f857524819aa,1776987426065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620"
+   "source": "CHEK News",
+   "title": "Eby reaffirms north coast tanker ban as pipeline debate continues",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVNNlIzd29hNkJLcFhyRjNWcFJxdkJhTGZBMHZGdzBIaFp6bU9CdnhDT0ZpR3Vsb1pVRFBQWkhweGs2ck04VTdxUjI2Tmhad2RqQm1qZ042MHpvU1BVby1WdElpT09QRHpiM1dVTm9ZYU41Q0NHeGZWQkdBWE9EV2NpZm94bVE3TkxEbnh6bTFCYWpIcE03bmln?oc=5",
+   "date": "2026-07-29",
+   "img": "https://cheknews.ca/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-5.30.27-PM-scaled-e1785371571702.png"
   },
   {
    "cat": "media",
@@ -133,36 +156,6 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdm1HVUpfdDg4dGphUWRpRllidC0zamhoaTZUbnEyVmRkSjFmelBsZHljUWVZSVJDMjNGTGJSaWJnV2FRLWJUSDdGUmNUVlRua21UcklUMWNPREpzNWh6X3VCTTJfcERreG81ZzJWR2c4bUM4eDdn?oc=5",
    "date": "2026-06-23",
    "img": "https://coastfunds.ca/wp-content/uploads/2026/06/moonfishmedia-2396_web.jpg"
-  },
-  {
-   "cat": "media",
-   "source": "Pêches et Océans Canada",
-   "title": "Great Bear Sea (Northern Shelf Bioregion)",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVR6bVpMNThnaFl6cmJ2MVk2dUtGRnJyMGVIalgxQ2daOGVRNnRvYXJlVmtjSVgtcWtnZEFQSmI1REJweGVLQUpfV19fMGVPbkVKSDAyeVdJVnlXVVd1bmRCWDBHRWVKWGZJUFhYSFZMVnM2T1VRamxwWDdTNUkxbmhGdlNDODl2eUlsWlBzWE9YRHZkM0xGM2t6ZmhYYUYwQzdwNEJRUl9YaTdPVGtrbDhJaGJBRWlsSFB0TDA1ZGc?oc=5",
-   "date": "2026-04-09"
-  },
-  {
-   "cat": "media",
-   "source": "The University of British Columbia",
-   "title": "Bottom trawling catches thousands of fish species, including those most at-risk",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjVhOU05aGdzOWxfR01WUEhvQWZxMGwwUFd0dlFfc2F6cmlLY2lWM1h3Y1FET3gtTU45NlJDdExIaDBNRUwwYzBqenFFMDNMZUZCeG1YVDJlT1hLTFZvZllJT21xVkhUYk5QX2RrOXNiWUpVSXQyMnVub0FMUkZiQTBoMlYtMkptZDF3dUdfaWh1ZlR4WDl3akZPQnpycXpheTExMm9pWnk5OEc4?oc=5",
-   "date": "2026-04-08",
-   "img": "https://science.ubc.ca/sites/default/files/styles/max_650x650/public/feature-images/2026-04/Guitarfish%20%28C%29%20Sarah%20Foster_Project%20Seahorse%2872dpi%29.JPG?itok=eJa0_SxB"
-  },
-  {
-   "cat": "media",
-   "source": "Canadian Geographic",
-   "title": "Partners in protection",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSS1neXc0NkZOaWVtZWhSVXQydmwzWTEtazRycnIxcmh3T3ZfQkFISjFEM0dUTDFKUjdvVHRSRnE5UHdBOVhxc3dvdnlZRGhHNVMyU3JHSzBrQ0dBYXJmOU1YQXZ2OG41Y19zZC1MdmMwNDA4ZmRlRVpIM1lrbTN2QVZpZw?oc=5",
-   "date": "2026-03-31"
-  },
-  {
-   "cat": "media",
-   "source": "The Nature Conservancy",
-   "title": "Sea of Possibility",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3RBRWlfSVA2YnNXYUpaVkktRjFJZkw5Q2R0WWtxbkw2ZGM4ZHEtWk5mSmVYb29JQl9scEFBNzRQMFNOb2c0ZjI3T2hHM2c5ZERsRFp0cU5fLU1Lc0g5ZGtobm1WcVZ0UFZKUkphUFlfWG5ub0ZtOHVleTZXdWVaLVZ4NmNVVzBxdDRsbGViZ05vZlBxUDc2NTlpYUI1emx4d1ZJ?oc=5",
-   "date": "2026-02-13",
-   "img": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/m/a/MAGONLY_ISSUE-1-2026_F_GREATBEAR_1_AspectRatio_4x3.jpg?crop=0%2C225%2C2000%2C1050&wid=1200&hei=630&scl=1.6666666666666667"
   }
  ]
 }
